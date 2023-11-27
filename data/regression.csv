@@ -1,0 +1,1090 @@
+,ResponseId,Q1,Q2,Q3,Q4,AI Trust Score
+1,R_3VooXw7NssLHR3M,2,"$90,000 - $109,000",3,No,19
+2,R_25DNldKcmHWRz2S,6,"$110,000 or more",2,Yes,24
+3,R_4MzGq4JoJtuslyC,3,"$0 - $9,999",1,No,25
+4,R_9GpPGvqSV460b4i,6,"$0 - $9,999",1,Yes,21
+5,R_0c6ggIVQWPr6j5Q,5,"$0 - $9,999",2,No,25
+6,R_6hQM0ZE5RQgaJ2S,2,"$50,000 - $69,000",1,Yes,27
+7,R_3TU0pPcMiHu7mtM,3,"$70,000 - $89,000",1,Yes,21
+8,R_7Op0gkIhFm0JWV8,5,"$70,000 - $89,000",3,No,27
+9,R_8v8PxmpW5pINe3c,2,"$30,000 - $49,000",1,Yes,22
+10,R_bC44lgYnNWC4r0G,3,"$0 - $9,999",2,No,21
+11,R_887LFyoWzWVQw9U,7,"$50,000 - $69,000",4 or more,No,20
+12,R_cI6lLDCrkUGPdLU,4,"$30,000 - $49,000",2,No,19
+13,R_54HtaIUCs4G631s,4,"$50,000 - $69,000",None,No,20
+14,R_9yG0HZVB0yL294q,7,"$70,000 - $89,000",1,Yes,28
+15,R_71wPUQuvSH4AKk6,6,"$110,000 or more",2,No,25
+16,R_7ODV4eUvAdeMRGm,5,"$90,000 - $109,000",1,Yes,30
+17,R_1yO9cx4TJrdFy7Q,7,"$110,000 or more",2,No,23
+18,R_0OsQK9scbWm0you,7,"$70,000 - $89,000",4 or more,Yes,19
+19,R_4ZRYHFFHLlwTt8a,2,"$50,000 - $69,000",3,No,20
+20,R_0TFRxJGAOSa6T5k,3,"$110,000 or more",2,No,20
+21,R_egSbopcUnNgQVyS,3,"$90,000 - $109,000",3,Yes,21
+22,R_b8HzdimCg8Eipx4,6,"$30,000 - $49,000",4 or more,No,28
+23,R_dnUDUwvwliWFuey,7,"$50,000 - $69,000",3,Yes,26
+24,R_74fSyIPoG7myNaS,1,"$70,000 - $89,000",1,No,23
+25,R_bmyD5rxhNUBBclE,5,"$30,000 - $49,000",3,Yes,24
+26,R_ePXhEnI9BMWhpcO,5,"$90,000 - $109,000",3,No,28
+27,R_eQK0W8ltE75fXsG,3,"$90,000 - $109,000",4 or more,Yes,29
+28,R_cJdfCdFdvv4ekse,6,"$10,000 - $29,000",3,No,23
+29,R_7TYBYXOWqZeDoXA,6,"$0 - $9,999",4 or more,Yes,33
+30,R_6mSWubWGY6hEBQq,2,"$50,000 - $69,000",None,No,24
+31,R_e2uyw9RPk2VxqK2,6,"$30,000 - $49,000",4 or more,Yes,22
+32,R_9BLvRhjJaDtbwGi,2,"$10,000 - $29,000",3,Yes,22
+33,R_d0TuDNyjlg4PIdo,6,"$70,000 - $89,000",4 or more,Yes,23
+34,R_3UABELONJYrLJlk,4,"$90,000 - $109,000",1,No,17
+35,R_3kqRcxIwbMnjMgu,5,"$50,000 - $69,000",None,No,25
+36,R_3qLLmPYTh52v2Bg,3,"$50,000 - $69,000",4 or more,No,28
+37,R_e4zhobjuI2On0lo,2,"$0 - $9,999",3,Yes,31
+38,R_eUM84GsZoGM3q3c,4,"$0 - $9,999",1,Yes,26
+39,R_74obfcxux60M4SO,1,"$0 - $9,999",4 or more,Yes,23
+40,R_b2A12gKY5yJbRBk,6,"$70,000 - $89,000",1,Yes,32
+41,R_1HevsqJAIHDDlK6,5,"$30,000 - $49,000",4 or more,Yes,28
+42,R_eyVEvtQuCyeojMa,5,"$0 - $9,999",3,No,23
+43,R_8dzm2L2hMfErhEq,2,"$10,000 - $29,000",2,Yes,24
+44,R_9nawOCH56Yj7Jlk,3,"$70,000 - $89,000",3,Yes,24
+45,R_2uDMwR19qjMcB26,7,"$10,000 - $29,000",None,No,24
+46,R_b2iBVMIs6Ng84tw,5,"$110,000 or more",None,No,25
+47,R_0xFuoJ9NoonvMnc,5,"$30,000 - $49,000",2,No,25
+48,R_bmejxHsgdkjbYMK,2,"$0 - $9,999",2,No,20
+49,R_3elieEbqp67dpL8,6,"$30,000 - $49,000",1,No,22
+50,R_8votweseaOF13mK,4,"$50,000 - $69,000",4 or more,Yes,27
+51,R_3jxqfa2jTuUEq90,7,"$110,000 or more",3,No,26
+52,R_3Erf5RuVOh805wy,7,"$110,000 or more",1,Yes,24
+53,R_8IIkHRJc5eFk4bI,5,"$0 - $9,999",1,Yes,27
+54,R_ehS68TRJDRSQuTI,5,"$50,000 - $69,000",1,Yes,32
+55,R_7QCrk2IGp2kf7mu,7,"$110,000 or more",3,No,26
+56,R_0VWPCK6mtaUjfKe,5,"$10,000 - $29,000",4 or more,No,17
+57,R_eo0i3dfADJjTf26,7,"$70,000 - $89,000",2,No,25
+58,R_5oRvwatyWLr2bNc,1,"$0 - $9,999",2,No,29
+59,R_4ObfS1KS6OL37h4,6,"$10,000 - $29,000",None,No,30
+60,R_b91s16McW4H6Kpg,5,"$10,000 - $29,000",None,No,20
+61,R_1MRN1FByFrJYSQm,4,"$90,000 - $109,000",None,No,24
+62,R_8dLl2cBnc8xNQDc,1,"$10,000 - $29,000",4 or more,Yes,24
+63,R_aWBZU7JhKGUJpxs,1,"$30,000 - $49,000",3,Yes,28
+64,R_bQQizGdYcCJW5oO,4,"$110,000 or more",1,Yes,18
+65,R_26jRlAwuuqJSXcy,7,"$110,000 or more",3,Yes,23
+66,R_3QWJitOdPORWR8i,7,"$50,000 - $69,000",None,No,22
+67,R_0GLDcnP6AJ0XGWq,1,"$110,000 or more",2,Yes,27
+68,R_0HA2Az8OzPXuPL8,6,"$70,000 - $89,000",None,Yes,30
+69,R_cI985OEpjzIt9TE,6,"$0 - $9,999",1,No,19
+70,R_1B39kmlHatzrNR4,1,"$10,000 - $29,000",2,No,21
+71,R_9S8dn5NrCWkL17o,3,"$90,000 - $109,000",None,No,25
+72,R_5b53iRfC6oWnGpU,1,"$0 - $9,999",None,No,23
+73,R_9mpO4CL8p1aD92K,2,"$90,000 - $109,000",1,No,24
+74,R_eIJ6lNMtZbcKePk,1,"$10,000 - $29,000",3,Yes,24
+75,R_cvybF32v4eilOui,2,"$0 - $9,999",2,Yes,22
+76,R_bxUPN0uyxWPmnTE,6,"$10,000 - $29,000",1,Yes,24
+77,R_7WB7U2s693PmKKq,1,"$110,000 or more",2,No,25
+78,R_0TxlHDW5a904FZI,3,"$70,000 - $89,000",None,Yes,24
+79,R_3Egok7mRZ6p6zyK,6,"$50,000 - $69,000",1,Yes,24
+80,R_1A39vtgwnqukku2,4,"$50,000 - $69,000",4 or more,No,19
+81,R_0OHtS8i2GLjXEbk,5,"$110,000 or more",1,Yes,22
+82,R_81X5BzmxYipNvzo,3,"$90,000 - $109,000",3,No,26
+83,R_aVKYwqcjm5OVEB8,1,"$110,000 or more",3,No,33
+84,R_06zkQaBHV1XjL7M,5,"$90,000 - $109,000",1,Yes,20
+85,R_dm95FLnd8iRXwh0,2,"$10,000 - $29,000",2,Yes,20
+86,R_9TYmwHuI89n8B70,2,"$110,000 or more",1,No,25
+87,R_e98kZmQK6nGXByu,3,"$50,000 - $69,000",3,Yes,28
+88,R_0CBVjnBCG9Ly00m,2,"$0 - $9,999",4 or more,No,26
+89,R_cIs2r3P2iiAuG4C,4,"$90,000 - $109,000",3,No,23
+90,R_7QFBVFfilEibf8y,2,"$30,000 - $49,000",1,No,25
+91,R_8cQ9wtg4HQwjON8,2,"$10,000 - $29,000",2,Yes,22
+92,R_6S8TRpfIQ1NSpYG,2,"$50,000 - $69,000",3,Yes,25
+93,R_8iGO1JYsmjIJzym,1,"$90,000 - $109,000",4 or more,No,26
+94,R_2b2T60ut5j0n5LU,4,"$70,000 - $89,000",4 or more,Yes,22
+95,R_7Pz4wkkYXcRVedM,3,"$10,000 - $29,000",4 or more,No,25
+96,R_3wIM7A6U7koMa7Y,1,"$0 - $9,999",2,Yes,29
+97,R_6gH2RngcBwvORoi,2,"$110,000 or more",None,No,22
+98,R_37PmTcCf8kRBrjE,1,"$70,000 - $89,000",3,No,25
+99,R_2nRJ1scRKsOsqKa,7,"$10,000 - $29,000",3,Yes,21
+100,R_6gKwhx8831zfCCO,2,"$90,000 - $109,000",2,Yes,26
+101,R_55fpq2dEzwitwfY,7,"$30,000 - $49,000",3,Yes,23
+102,R_4IQCPTI58frQWrQ,4,"$70,000 - $89,000",3,Yes,27
+103,R_dnkuREIeie9CCUe,2,"$0 - $9,999",1,No,22
+104,R_3yBMxecxft9b9T8,6,"$90,000 - $109,000",1,No,25
+105,R_cByYIztlK3Fp0Ro,6,"$70,000 - $89,000",None,Yes,24
+106,R_bJDyXDHImbawf5A,4,"$90,000 - $109,000",4 or more,No,21
+107,R_018ElNk1vAjHd2e,2,"$10,000 - $29,000",3,No,16
+108,R_eX3QBrE9ce97poa,7,"$30,000 - $49,000",3,Yes,25
+109,R_1ENHMBVI9D03qM6,6,"$0 - $9,999",3,No,27
+110,R_0rpAmdCOKF8VLiC,7,"$10,000 - $29,000",4 or more,Yes,24
+111,R_1zUUJg6npBJ5AJo,4,"$90,000 - $109,000",1,No,24
+112,R_eaIdIVHjvzynvr8,5,"$0 - $9,999",1,No,23
+113,R_9MmMqf0oMlDeVW6,3,"$70,000 - $89,000",3,No,25
+114,R_5z0ZilDiEgNefem,7,"$70,000 - $89,000",3,Yes,22
+115,R_6YiX356x2N0yf5k,6,"$70,000 - $89,000",3,Yes,28
+116,R_eyfsEGT7SCSR9SC,7,"$50,000 - $69,000",1,No,23
+117,R_40EGClbmbDTLKfA,4,"$90,000 - $109,000",4 or more,Yes,25
+118,R_cJd9xMxBs9olGHc,7,"$0 - $9,999",None,No,23
+119,R_88kdEYMxQnXBPyC,4,"$50,000 - $69,000",1,No,23
+120,R_eEFpC1bWVlubEY6,7,"$50,000 - $69,000",None,No,24
+121,R_eFeEKsahlRWSSa2,6,"$50,000 - $69,000",4 or more,No,21
+122,R_3Jo1gWeVxtiRvtY,4,"$30,000 - $49,000",None,No,24
+123,R_1Bziokzbu3K7MhM,3,"$30,000 - $49,000",1,Yes,21
+124,R_2bhZtPSrWW2PcN0,6,"$50,000 - $69,000",2,No,22
+125,R_6sX1pNHBw3iFwfY,2,"$10,000 - $29,000",1,Yes,17
+126,R_5gTA4XXhEm7M4rc,2,"$110,000 or more",None,Yes,22
+127,R_8cSBZmBZJXg6svQ,7,"$30,000 - $49,000",4 or more,Yes,23
+128,R_2nMiKATaO9hcvnU,3,"$10,000 - $29,000",None,Yes,26
+129,R_bD89OJDDCbLwLNI,7,"$0 - $9,999",1,No,23
+130,R_2oEg5Us1yQHquDc,3,"$110,000 or more",3,No,26
+131,R_5jP07oZBLEG2Tno,1,"$30,000 - $49,000",None,Yes,26
+132,R_0q7b2BMIkbLNE2O,3,"$0 - $9,999",1,Yes,27
+133,R_b3mjTWAR91nr40e,4,"$0 - $9,999",2,Yes,25
+134,R_6KbEk0dti9i4nBA,3,"$0 - $9,999",None,No,22
+135,R_cZNT7Fma0UrKnUG,1,"$10,000 - $29,000",None,Yes,18
+136,R_0rcTFhN5vNZWqAm,6,"$90,000 - $109,000",None,Yes,18
+137,R_7QARoi3AGUp3Xim,7,"$110,000 or more",2,No,23
+138,R_bforpZRzkoGnTRY,7,"$50,000 - $69,000",3,Yes,25
+139,R_6Wsyh38WF1IN73E,2,"$70,000 - $89,000",1,Yes,26
+140,R_6RR4bx7kzu5OOnY,3,"$90,000 - $109,000",1,No,21
+141,R_0Baovq865kDuBHo,2,"$70,000 - $89,000",4 or more,No,23
+142,R_8cfnfB6hox3Prca,2,"$70,000 - $89,000",4 or more,Yes,22
+143,R_8qT2v4pnaZytfLw,1,"$90,000 - $109,000",4 or more,No,15
+144,R_832f2jpElfgSmKG,5,"$110,000 or more",1,Yes,22
+145,R_ahFBonMJzUj5G5M,1,"$70,000 - $89,000",2,No,25
+146,R_6G56LUfvI525Vj0,6,"$110,000 or more",4 or more,Yes,26
+147,R_cSAJRKX6IBbzw7I,2,"$50,000 - $69,000",4 or more,Yes,16
+148,R_5zrwddROMmzykaW,2,"$110,000 or more",4 or more,No,18
+149,R_2sZjiWCWaS31HMy,5,"$50,000 - $69,000",1,No,28
+150,R_6nEYOvbdj3nnq9E,3,"$30,000 - $49,000",4 or more,No,21
+151,R_3n6XaWCFu3hYp8O,6,"$0 - $9,999",1,Yes,23
+152,R_9SspbbGvQNiW7LE,2,"$50,000 - $69,000",3,No,28
+153,R_erl8mCMRnG7bZX0,7,"$110,000 or more",None,Yes,25
+154,R_bCKO70kZySmOMey,5,"$90,000 - $109,000",None,No,19
+155,R_3w092iSsQNbsHky,4,"$30,000 - $49,000",1,No,25
+156,R_dglkQtrVSGj0iBE,6,"$110,000 or more",1,Yes,24
+157,R_eRNqOzCs187Xfds,5,"$50,000 - $69,000",1,Yes,19
+158,R_0JUfncVWRYUDeWa,1,"$70,000 - $89,000",2,Yes,19
+159,R_8rbEp5C76ytoIV8,5,"$30,000 - $49,000",4 or more,No,29
+160,R_cIMHb3BA2GyoNwO,1,"$90,000 - $109,000",1,No,30
+161,R_d5twv0oiY3hzKNE,7,"$70,000 - $89,000",3,Yes,23
+162,R_cCo8xYXHVZsVvQG,5,"$110,000 or more",2,No,31
+163,R_6r6tG6Hs7pRgRJI,5,"$110,000 or more",2,No,25
+164,R_1F7QzcL7zSYw1FA,7,"$50,000 - $69,000",2,No,18
+165,R_5BaCVwyD8T2rAZo,4,"$50,000 - $69,000",1,Yes,29
+166,R_79FNKsHfpCRXDOC,5,"$10,000 - $29,000",3,Yes,30
+167,R_3sihe6Kny7qn2u2,5,"$70,000 - $89,000",None,No,27
+168,R_8CIylMGrXDwbhRQ,4,"$0 - $9,999",2,Yes,28
+169,R_0qde28CLtvo61Se,2,"$0 - $9,999",1,No,27
+170,R_7QcOJNNcWRU0NBY,3,"$30,000 - $49,000",1,No,21
+171,R_5juiWixbaSFZAoe,6,"$30,000 - $49,000",1,Yes,24
+172,R_bBmqIGOatZeUCsS,1,"$0 - $9,999",3,Yes,16
+173,R_eqzSnyqG8jXeIbs,2,"$30,000 - $49,000",4 or more,Yes,22
+174,R_78I04pAMUaIhFEa,5,"$0 - $9,999",3,Yes,29
+175,R_5pOfjD3FTy7PVvo,4,"$90,000 - $109,000",3,Yes,21
+176,R_6SANxo8UZjpnSMC,1,"$30,000 - $49,000",1,No,29
+177,R_1QZZSOJ4F0q3NEq,2,"$30,000 - $49,000",3,No,21
+178,R_1MPhLHCeHH5CcDQ,4,"$70,000 - $89,000",3,Yes,21
+179,R_eXbnbkvw7VQT3xA,6,"$90,000 - $109,000",2,No,19
+180,R_3U86uoYM38gNsb4,2,"$110,000 or more",1,No,25
+181,R_a4aaM55mvawBoYm,4,"$90,000 - $109,000",2,No,25
+182,R_8qtUavN0SJr9o6W,7,"$30,000 - $49,000",4 or more,Yes,26
+183,R_3Ko6X0hjyrVeNMO,5,"$50,000 - $69,000",3,Yes,25
+184,R_a9r8fhMaJ5RIUJ0,1,"$0 - $9,999",2,No,24
+185,R_8lkIOESUB6MLZ1s,7,"$70,000 - $89,000",1,Yes,22
+186,R_9MJLFvhvbfsxmJ0,2,"$30,000 - $49,000",1,No,33
+187,R_dgxODRSodMNMBsG,2,"$30,000 - $49,000",None,Yes,24
+188,R_9SmsVfzPuP91dFc,1,"$70,000 - $89,000",1,No,24
+189,R_eLpjd8AOYVxIH0q,2,"$10,000 - $29,000",None,Yes,30
+190,R_0fGcmVWhg3UMbt4,6,"$30,000 - $49,000",None,Yes,27
+191,R_55RWGaIL9U90RSu,7,"$70,000 - $89,000",2,No,23
+192,R_9yq4LLb0f033cdE,5,"$110,000 or more",2,Yes,33
+193,R_2mkJ5hjzVscvf4q,5,"$90,000 - $109,000",None,Yes,15
+194,R_4P0ibQMszM32uNw,7,"$10,000 - $29,000",None,Yes,25
+195,R_0rJasOqBsMHteV8,7,"$0 - $9,999",None,Yes,18
+196,R_3PgDlMA0dSkz3HU,7,"$30,000 - $49,000",3,Yes,15
+197,R_e5HDHMsnSUxHy8C,3,"$10,000 - $29,000",2,Yes,25
+198,R_0j3ebvDGVASBVae,3,"$50,000 - $69,000",2,No,16
+199,R_8xplwcBQ6D9xdgq,6,"$10,000 - $29,000",2,Yes,24
+200,R_0c5PllP8h9a2QEC,5,"$50,000 - $69,000",4 or more,No,23
+201,R_0iBTHhFrPoqiejQ,3,"$10,000 - $29,000",1,No,29
+202,R_bwGwrHxGVHXyTgq,1,"$90,000 - $109,000",3,Yes,29
+203,R_5hitchUvfXw43eC,2,"$90,000 - $109,000",None,No,20
+204,R_8nXTJkRhkBiMXJ4,2,"$0 - $9,999",3,No,28
+205,R_a3H3jaWd3MkCMhE,1,"$90,000 - $109,000",3,No,29
+206,R_2fpwdbYbboLD2hU,1,"$90,000 - $109,000",3,Yes,20
+207,R_bD68LY8N7bUzjQG,6,"$10,000 - $29,000",1,Yes,23
+208,R_5sClBuo4k2m16h8,1,"$30,000 - $49,000",1,Yes,15
+209,R_b2D7So2XDaWPJ6C,5,"$30,000 - $49,000",None,Yes,30
+210,R_3VL3Np8mzbolPT0,5,"$50,000 - $69,000",None,Yes,24
+211,R_9ofRveJmUSLbx42,7,"$70,000 - $89,000",3,No,30
+212,R_0ig26G4qrvnpq5M,5,"$90,000 - $109,000",2,No,21
+213,R_6EWQ6zs9BkXeqCW,2,"$0 - $9,999",2,Yes,32
+214,R_2bj1dAggWO55if4,4,"$0 - $9,999",3,Yes,23
+215,R_9nIVtXh4XY9GnHg,3,"$70,000 - $89,000",None,No,27
+216,R_a2Gz44tRBM6turs,7,"$0 - $9,999",None,No,28
+217,R_50T0H9eSU6NSnXg,4,"$50,000 - $69,000",1,Yes,26
+218,R_byphwn1M5YpgtNQ,1,"$90,000 - $109,000",2,No,25
+219,R_3mhOAY2FZYwko9E,6,"$110,000 or more",1,No,27
+220,R_e4FoEu8dfVIvGEm,4,"$70,000 - $89,000",2,Yes,25
+221,R_71WgCOu3jnticey,2,"$10,000 - $29,000",3,No,26
+222,R_3L4LEMbzWDPPiT4,1,"$30,000 - $49,000",None,No,26
+223,R_9mEN5NhLaYK8GmW,6,"$90,000 - $109,000",4 or more,Yes,23
+224,R_3QTKkyDC6XqrHw2,5,"$90,000 - $109,000",2,No,22
+225,R_7P46E2NQ951Njoi,2,"$0 - $9,999",1,Yes,31
+226,R_9RdeyCwcdTJOhyS,1,"$90,000 - $109,000",None,No,28
+227,R_a3QWEfEv9tda6vs,1,"$90,000 - $109,000",None,No,22
+228,R_cYhi56F8J26IRqS,7,"$70,000 - $89,000",None,No,18
+229,R_2iyIWo6FsoGUDm6,1,"$50,000 - $69,000",4 or more,No,27
+230,R_0CHlY15RPVVc0NE,1,"$0 - $9,999",1,Yes,28
+231,R_eScL4mcypVH6vSC,4,"$50,000 - $69,000",3,Yes,26
+232,R_efA8wubDsqTCbQi,6,"$10,000 - $29,000",None,Yes,26
+233,R_0ijZENuRu1yRyaa,1,"$0 - $9,999",3,Yes,20
+234,R_ehRlr5mIaWIQajQ,3,"$70,000 - $89,000",2,No,26
+235,R_8HRAEIcN9iJYVRI,3,"$10,000 - $29,000",1,Yes,21
+236,R_bORCv6ZuZtwWSYC,2,"$70,000 - $89,000",1,No,23
+237,R_agWqPmkYI1HcqMu,6,"$70,000 - $89,000",2,Yes,19
+238,R_8jGHdhCq6YrHZJA,2,"$50,000 - $69,000",1,Yes,26
+239,R_7agAf0KxFek8e0u,7,"$110,000 or more",3,Yes,22
+240,R_9BTYPolFFnx87Hw,6,"$0 - $9,999",2,Yes,34
+241,R_eRSckLQQNYTHut0,6,"$30,000 - $49,000",None,No,27
+242,R_cHcxx5usd2bQ8Si,7,"$110,000 or more",1,No,24
+243,R_ezhBJmrbXxK12T4,6,"$0 - $9,999",4 or more,No,22
+244,R_9sM3NSqYNjPdZUG,1,"$0 - $9,999",1,No,23
+245,R_8AgeBd6Q20QjmAu,3,"$70,000 - $89,000",1,Yes,23
+246,R_2sZeX5UgtdQaer4,5,"$10,000 - $29,000",4 or more,Yes,28
+247,R_4VLxDAK7ev2grWu,2,"$30,000 - $49,000",2,Yes,24
+248,R_eeNNPao9cIqQftk,5,"$50,000 - $69,000",None,Yes,29
+249,R_3lN1lARfjX2uN6e,2,"$70,000 - $89,000",2,No,17
+250,R_1AkIbSy04auDxqu,1,"$90,000 - $109,000",3,Yes,18
+251,R_57Pm4QbY9FAw7k2,5,"$90,000 - $109,000",3,Yes,23
+252,R_bBnmPP2E7EnVqLA,1,"$0 - $9,999",2,Yes,27
+253,R_cU7vMzbQtMvU03I,5,"$90,000 - $109,000",4 or more,No,20
+254,R_eh79wWXcrfb2LJQ,2,"$10,000 - $29,000",None,Yes,24
+255,R_9yT6z5ZuNLfgMEm,5,"$110,000 or more",4 or more,Yes,30
+256,R_4Ynpk1YnV4WkUC2,5,"$30,000 - $49,000",3,Yes,23
+257,R_e3SXnbbK1T7M3Fc,3,"$0 - $9,999",3,Yes,20
+258,R_6EbnJ5iUhAoSdzo,7,"$110,000 or more",1,No,29
+259,R_2lR5lplGrb5sA86,6,"$90,000 - $109,000",2,No,21
+260,R_bEoCpt7cUL6Yxhk,6,"$0 - $9,999",1,Yes,24
+261,R_1RhVF4gjGp8jQEe,3,"$30,000 - $49,000",None,Yes,24
+262,R_a5ezXp8HtQGnqbs,6,"$110,000 or more",2,No,24
+263,R_6GbZo7mJTZ9x6S2,7,"$90,000 - $109,000",2,No,24
+264,R_aUYuP6AlKoWvv94,1,"$30,000 - $49,000",4 or more,Yes,27
+265,R_1GmmcEkhY2dwFf0,1,"$110,000 or more",None,Yes,28
+266,R_8AfSeIYakPlveOa,4,"$50,000 - $69,000",2,No,20
+267,R_9mmLrgV6SVCDn5Y,1,"$110,000 or more",1,Yes,21
+268,R_3EQ1N8GfM9bYFmK,6,"$50,000 - $69,000",2,Yes,24
+269,R_2f56Tv45rhvjJtA,7,"$90,000 - $109,000",1,No,21
+270,R_eqDU2iH5E9ws2Am,6,"$0 - $9,999",3,No,22
+271,R_8wdt7IR0nlWIX4i,3,"$10,000 - $29,000",2,No,27
+272,R_etSvmQEpQa2JODA,5,"$70,000 - $89,000",1,No,27
+273,R_88NDwTwwzPtHu4e,7,"$50,000 - $69,000",3,Yes,22
+274,R_0rhqsV8p4pi8AiG,2,"$70,000 - $89,000",3,Yes,25
+275,R_b9FqmY37FQedE8e,4,"$50,000 - $69,000",4 or more,Yes,18
+276,R_b87StkA4XhxdRGe,4,"$110,000 or more",3,No,18
+277,R_8CYLsdf0123Q474,3,"$70,000 - $89,000",1,Yes,26
+278,R_czRk9n5u55ESkn4,3,"$90,000 - $109,000",4 or more,No,30
+279,R_6sMujnp8vEcepVk,3,"$10,000 - $29,000",1,No,25
+280,R_2a9bKBowGzzndeC,1,"$10,000 - $29,000",1,No,30
+281,R_eULG8nw6zbBFYFg,2,"$30,000 - $49,000",3,No,29
+282,R_2ltXU2vuNoufjP8,2,"$90,000 - $109,000",4 or more,Yes,26
+283,R_beW1ZlWEsySMDtk,1,"$110,000 or more",None,Yes,27
+284,R_1SOUQ2XESH0nRWe,4,"$10,000 - $29,000",None,No,12
+285,R_3WNUWmQPRuXteCy,2,"$110,000 or more",2,No,25
+286,R_55OEb2pq62I3cy2,5,"$0 - $9,999",2,No,26
+287,R_8wW8wT6d2WfgJqC,4,"$50,000 - $69,000",None,Yes,23
+288,R_3Rh7USLN5xw3wq2,2,"$10,000 - $29,000",3,Yes,24
+289,R_6nkIBDi86THu6R8,2,"$110,000 or more",4 or more,Yes,21
+290,R_e9yiOYTscR7nFvo,4,"$110,000 or more",4 or more,No,23
+291,R_73Ar44mKBQ1VzjE,3,"$90,000 - $109,000",2,Yes,24
+292,R_diZ2NgpZnmxW0n4,7,"$110,000 or more",None,Yes,26
+293,R_4UUtuVcL5nWV2U6,2,"$30,000 - $49,000",1,No,23
+294,R_cUs9TG3NMcNUors,2,"$30,000 - $49,000",None,No,21
+295,R_e2SE0EMPxVkdpHg,4,"$10,000 - $29,000",4 or more,No,29
+296,R_4ImOxnHYOi869ro,4,"$90,000 - $109,000",1,No,21
+297,R_79AdrKBkrBtqhoy,6,"$110,000 or more",2,No,19
+298,R_3V3BpczyaNqtnVk,6,"$90,000 - $109,000",2,Yes,25
+299,R_3I2JDZRTCJFaVEy,7,"$70,000 - $89,000",3,Yes,20
+300,R_0oC224duOGT1QR8,1,"$90,000 - $109,000",2,Yes,25
+301,R_9Ks1xJ5LCS9ndJA,1,"$70,000 - $89,000",1,Yes,19
+302,R_9GOYBvrII9K35n8,6,"$30,000 - $49,000",None,No,27
+303,R_3fVP6NcPNeFf1Ou,5,"$50,000 - $69,000",3,No,22
+304,R_bQrC60MNvhLrKXs,1,"$10,000 - $29,000",3,No,26
+305,R_bw5X7gzoiefA7b0,3,"$0 - $9,999",2,Yes,23
+306,R_dokLY0ZUVP5FH38,7,"$90,000 - $109,000",3,No,19
+307,R_3jRNYt1kWXCDJdQ,7,"$10,000 - $29,000",None,No,28
+308,R_9H7Fag32SAlozOu,3,"$110,000 or more",4 or more,No,26
+309,R_3WOVg5bs1HOB3mu,7,"$0 - $9,999",3,Yes,25
+310,R_9Epm8AMAcagWzIO,6,"$10,000 - $29,000",None,No,20
+311,R_71Bd3QYFJ5totYG,5,"$30,000 - $49,000",None,No,22
+312,R_82DVowGnYT1TII6,3,"$30,000 - $49,000",2,Yes,22
+313,R_9uZGUe6sAexqheK,1,"$10,000 - $29,000",None,Yes,25
+314,R_2aH2HmOtlbV1wc6,5,"$30,000 - $49,000",4 or more,Yes,23
+315,R_4SpCjqRw1igOgQe,1,"$50,000 - $69,000",3,Yes,24
+316,R_8hMqECcUHuILK5w,3,"$110,000 or more",1,Yes,15
+317,R_ewFR4fOI0zON1gW,3,"$0 - $9,999",None,No,19
+318,R_aVrB93hTyb3O5ZY,3,"$90,000 - $109,000",1,No,19
+319,R_0qxrhY4XpsQ08Qu,3,"$70,000 - $89,000",None,No,32
+320,R_cORn7EgE7mQbpcy,1,"$30,000 - $49,000",3,Yes,29
+321,R_0w8I232gyph8EqW,5,"$30,000 - $49,000",4 or more,Yes,26
+322,R_0rfMjbQMvDyUwLQ,2,"$90,000 - $109,000",1,Yes,26
+323,R_0T9lUtSzQEqorPM,2,"$30,000 - $49,000",1,Yes,29
+324,R_8CdKmrHQHsYmlIa,1,"$30,000 - $49,000",1,Yes,23
+325,R_9oGVgJXpc0oN5wa,4,"$90,000 - $109,000",3,Yes,31
+326,R_7OPO1kpyd6ZPNfU,1,"$70,000 - $89,000",4 or more,Yes,31
+327,R_3fLE4UGpHb2lGT4,7,"$90,000 - $109,000",None,Yes,27
+328,R_aW33cAcL8jc24aa,6,"$50,000 - $69,000",4 or more,No,31
+329,R_6mSG8Fr6BTsDOQe,3,"$70,000 - $89,000",3,No,21
+330,R_bK1a6KhnuyLevaK,5,"$70,000 - $89,000",3,Yes,18
+331,R_b2UWSHTPCyxgdMO,6,"$50,000 - $69,000",4 or more,Yes,25
+332,R_7VwSLwibYSn0v6S,7,"$70,000 - $89,000",None,Yes,18
+333,R_6VEnx1FzxHcpew6,5,"$30,000 - $49,000",4 or more,No,23
+334,R_6XVCkHSrSwCWqi2,1,"$10,000 - $29,000",1,No,30
+335,R_5uKAk13ID0MiBPU,6,"$70,000 - $89,000",4 or more,No,36
+336,R_0MMCkM6WjIy3RpI,6,"$90,000 - $109,000",4 or more,Yes,32
+337,R_bl4cJbI1D0vGNMi,4,"$50,000 - $69,000",1,No,18
+338,R_4SFMnI19oW6imVw,1,"$90,000 - $109,000",None,No,23
+339,R_bNNIVaLJVagFKGW,7,"$50,000 - $69,000",4 or more,Yes,25
+340,R_8ea1UjmhTnNRehU,5,"$0 - $9,999",3,Yes,27
+341,R_8BaU04kK7P633aS,2,"$50,000 - $69,000",2,Yes,24
+342,R_e9W0Lt4rUlQk0Zg,4,"$0 - $9,999",1,No,30
+343,R_9SmviZhEJGPaD7E,1,"$50,000 - $69,000",3,No,24
+344,R_3OTMpgiUVyHK4Fo,5,"$90,000 - $109,000",None,Yes,17
+345,R_3EmLpyR4Y95Lwh0,7,"$90,000 - $109,000",4 or more,No,28
+346,R_0CKx3CQlul1NXLw,6,"$50,000 - $69,000",3,Yes,31
+347,R_0rMPE3rRGPb3RlQ,7,"$110,000 or more",3,No,27
+348,R_0CwP109MU2jxJfo,7,"$0 - $9,999",3,No,18
+349,R_8qfSWNFbTbX3gYm,6,"$30,000 - $49,000",1,Yes,22
+350,R_0AQflQiZUesh7OC,2,"$10,000 - $29,000",1,No,20
+351,R_d5LbzttEVftK2Ds,6,"$110,000 or more",1,No,31
+352,R_9o8F779efmlNYj4,5,"$0 - $9,999",3,No,22
+353,R_ezWFFKGqA6wWXgq,3,"$90,000 - $109,000",3,No,22
+354,R_9RfYhInzpCTCbAO,5,"$110,000 or more",2,No,22
+355,R_8l9spOJPZiWedPo,7,"$0 - $9,999",1,Yes,25
+356,R_0rLxUahzOXNQobY,1,"$110,000 or more",None,Yes,26
+357,R_0pqylcUuGO45Mhw,5,"$30,000 - $49,000",3,No,22
+358,R_74fX6szYiDvc9x4,2,"$70,000 - $89,000",3,Yes,22
+359,R_50TZU5cW4UyeCxg,1,"$50,000 - $69,000",2,No,29
+360,R_8CwvRxiqLyv1n2m,4,"$0 - $9,999",3,Yes,17
+361,R_e9yHCi1yAe2lm5g,6,"$110,000 or more",None,Yes,30
+362,R_e375wVQfkHv2hxk,4,"$70,000 - $89,000",1,No,24
+363,R_9AHvxvt3ZerFGOG,1,"$110,000 or more",2,No,30
+364,R_0TlsKsG2ulgkH5Q,4,"$70,000 - $89,000",1,Yes,28
+365,R_e4LmiL1e0DV2MwS,3,"$110,000 or more",1,No,21
+366,R_aeCvETSGMixCk5M,5,"$110,000 or more",2,Yes,27
+367,R_86XXL4mE3Tv5AO2,5,"$30,000 - $49,000",4 or more,Yes,18
+368,R_bK2IMQMHohJMVEi,5,"$50,000 - $69,000",None,Yes,22
+369,R_43nX8wXOYWxwrS6,2,"$10,000 - $29,000",1,Yes,29
+370,R_6mzfNSusWhGDCgm,7,"$10,000 - $29,000",2,Yes,28
+371,R_ebWqYFEyFsORW98,4,"$90,000 - $109,000",4 or more,Yes,15
+372,R_8win3AbRBJdey1g,4,"$90,000 - $109,000",2,No,25
+373,R_bIXQEnvKaLPAIwS,4,"$0 - $9,999",3,Yes,25
+374,R_a5EoRF5UsBVmKi2,1,"$10,000 - $29,000",1,No,19
+375,R_3Rb68C8D3ssmk0S,4,"$110,000 or more",None,No,18
+376,R_enWg1KzU0P1OBzE,6,"$50,000 - $69,000",1,No,27
+377,R_2i85IX53K7Yi7sy,4,"$90,000 - $109,000",2,No,25
+378,R_9sCX8zzLuhftSiW,5,"$70,000 - $89,000",3,No,24
+379,R_8jne7bwqoip2RlI,5,"$10,000 - $29,000",None,Yes,21
+380,R_dhUPsgTdWdWFSfA,1,"$0 - $9,999",None,No,20
+381,R_4O5KSSCCZ8Fp4tU,3,"$30,000 - $49,000",4 or more,Yes,29
+382,R_egOeOy0V3f5LgZo,4,"$70,000 - $89,000",4 or more,Yes,25
+383,R_6FgO1zPUOOE6vOK,4,"$70,000 - $89,000",None,Yes,26
+384,R_8kqmW4qBrh6VOR0,7,"$110,000 or more",2,No,32
+385,R_0xmnMbnPv8aL3oi,2,"$0 - $9,999",None,Yes,27
+386,R_dgnBvXmRYQn4Thc,1,"$0 - $9,999",2,Yes,27
+387,R_9So3qUZhYlNKJBI,6,"$0 - $9,999",3,No,20
+388,R_1ByQZf0BPTAqw06,3,"$0 - $9,999",1,Yes,20
+389,R_d0xNHqI01WwX1xI,3,"$30,000 - $49,000",3,Yes,27
+390,R_dnfNDs1QqkV2Vkq,1,"$110,000 or more",2,No,28
+391,R_cBFjy0keLXlsn8W,5,"$50,000 - $69,000",None,Yes,28
+392,R_9ypKRWvRUEXLWE6,6,"$50,000 - $69,000",1,Yes,26
+393,R_410e0joqVskcw0S,7,"$50,000 - $69,000",1,No,22
+394,R_1zFPTTarwjqiNGS,2,"$10,000 - $29,000",3,Yes,24
+395,R_dd940SDdIlzcFZY,7,"$50,000 - $69,000",3,No,26
+396,R_e96WBBblyxFPmpo,2,"$90,000 - $109,000",None,No,25
+397,R_0V9UeGcctc61qMS,6,"$10,000 - $29,000",1,Yes,25
+398,R_3xXZm6EPmcPOcJw,6,"$90,000 - $109,000",None,Yes,20
+399,R_3IAjQ3cT8O4OE7k,6,"$50,000 - $69,000",None,Yes,31
+400,R_bwuwXPPaXD72eIS,5,"$70,000 - $89,000",3,Yes,25
+401,R_2f9Ez3h8pY0ASVg,7,"$90,000 - $109,000",None,No,23
+402,R_eEE2cN5gJ2zOfuS,4,"$110,000 or more",3,Yes,28
+403,R_afQUtq3AOC785Cu,5,"$70,000 - $89,000",None,Yes,22
+404,R_6PxHCUUgL5AfJfo,3,"$90,000 - $109,000",None,Yes,19
+405,R_3w35uJWIXumElka,2,"$70,000 - $89,000",3,No,24
+406,R_06qgLrOhEmMJlb0,2,"$50,000 - $69,000",1,Yes,25
+407,R_czM2TscbqG5R67A,7,"$90,000 - $109,000",2,Yes,27
+408,R_bHNMzePNapyhaQu,7,"$50,000 - $69,000",4 or more,Yes,21
+409,R_0DSlypKmMsDuQLA,1,"$10,000 - $29,000",4 or more,No,31
+410,R_6Musc9NCVeL7UOy,2,"$30,000 - $49,000",4 or more,No,16
+411,R_37O7YqI0y9TPiAu,2,"$110,000 or more",2,No,31
+412,R_41qsR5P5S2ADQbk,2,"$30,000 - $49,000",1,Yes,24
+413,R_d0AIpompjmM1CSO,7,"$10,000 - $29,000",2,Yes,18
+414,R_eYfzrYHy9dCrunA,2,"$0 - $9,999",None,No,17
+415,R_0fuX3ia6LFwlNeS,4,"$10,000 - $29,000",1,No,22
+416,R_6PWXKbB7ukILNs2,7,"$90,000 - $109,000",None,No,24
+417,R_aWUrciYAAvnuOkm,2,"$10,000 - $29,000",2,Yes,18
+418,R_2bEFENcGAohWJCK,1,"$70,000 - $89,000",3,Yes,34
+419,R_0IYZMzG0F4SfZMq,7,"$110,000 or more",3,Yes,23
+420,R_4MBqS8tcmwlSJv0,3,"$30,000 - $49,000",1,No,29
+421,R_3mxQkC57XUy2Dqu,7,"$30,000 - $49,000",1,Yes,24
+422,R_81dPDijNcCGNLYW,5,"$90,000 - $109,000",3,No,24
+423,R_6PU1a6Y6d9wB09M,3,"$10,000 - $29,000",1,Yes,22
+424,R_6mPZds09ODvYH1Y,5,"$50,000 - $69,000",4 or more,No,27
+425,R_6VGlchib4yHUbwW,7,"$70,000 - $89,000",None,No,22
+426,R_bJcp5dZ9RBjBOyG,4,"$50,000 - $69,000",None,No,26
+427,R_0D4WjSyucZZ2Ezs,7,"$110,000 or more",4 or more,Yes,20
+428,R_a8yqTzSgWvVMJRs,4,"$10,000 - $29,000",4 or more,No,25
+429,R_82nObj8yjQO5Ha6,7,"$90,000 - $109,000",3,No,24
+430,R_8lge8JXZuBzNlky,3,"$50,000 - $69,000",2,Yes,27
+431,R_bmgprHYUrPYnXRI,1,"$0 - $9,999",4 or more,No,28
+432,R_38UCshTteHywnGe,3,"$10,000 - $29,000",None,Yes,27
+433,R_b9rBdIjiArDWnnE,1,"$10,000 - $29,000",3,No,22
+434,R_bOExf8RS1br1Qcm,4,"$110,000 or more",3,Yes,21
+435,R_dmp8S9W5FugClOm,5,"$110,000 or more",3,No,20
+436,R_8rdOnh28dOR909w,2,"$110,000 or more",1,Yes,19
+437,R_cZtDpIBwvtrcyyy,6,"$50,000 - $69,000",None,No,22
+438,R_eCFt7SO82308Jw2,2,"$0 - $9,999",None,No,18
+439,R_0rLLa3QBDKOX51Y,5,"$10,000 - $29,000",1,Yes,28
+440,R_cUy1Z3GyzvzrsrA,7,"$0 - $9,999",4 or more,No,22
+441,R_0qBWArKr6QVAyIS,3,"$110,000 or more",None,Yes,29
+442,R_0VUCAvPPZF0hrfM,7,"$10,000 - $29,000",None,No,20
+443,R_0PNCPAoH55WpXqC,5,"$10,000 - $29,000",3,No,24
+444,R_0vUgOYqjlAqDSfQ,4,"$110,000 or more",1,No,20
+445,R_ea0NdlznSkFThfo,1,"$90,000 - $109,000",2,No,20
+446,R_8JrsOgGvsAQ6al8,1,"$90,000 - $109,000",None,No,26
+447,R_4SFASxCjaZb5KE6,3,"$90,000 - $109,000",3,No,18
+448,R_6rPEy9ifhlkcPPM,6,"$50,000 - $69,000",2,No,23
+449,R_6tEIH4oTmywAtKu,1,"$110,000 or more",4 or more,No,27
+450,R_e4cfOcvXm3rzhEG,4,"$70,000 - $89,000",3,No,20
+451,R_249yyXtEKM9M1YW,2,"$10,000 - $29,000",3,Yes,24
+452,R_1LVLtHkKEPgMf8a,1,"$90,000 - $109,000",4 or more,Yes,18
+453,R_5igcsWlwPwOGItg,6,"$30,000 - $49,000",4 or more,No,28
+454,R_cTIBDQYYEGoSS7Y,7,"$70,000 - $89,000",1,Yes,22
+455,R_0keBlwga5EMWYVE,5,"$110,000 or more",4 or more,Yes,25
+456,R_1YbsnSfaSPc0OzQ,1,"$70,000 - $89,000",2,No,31
+457,R_dnAuddJsEPXh8qy,4,"$30,000 - $49,000",None,Yes,24
+458,R_4PFEtEp1fSYbKQu,7,"$10,000 - $29,000",1,No,29
+459,R_0JyaLCGvOlHvwnI,4,"$10,000 - $29,000",1,No,17
+460,R_d4EHf6rN3LXtaNE,6,"$10,000 - $29,000",2,No,27
+461,R_exPeDinrABrfZ5k,1,"$50,000 - $69,000",1,Yes,25
+462,R_6X1Bd0Vjmc9fHJI,1,"$10,000 - $29,000",3,No,23
+463,R_6fAqAcUa06T24nk,4,"$50,000 - $69,000",4 or more,No,27
+464,R_1YvPScWhv006nAO,2,"$0 - $9,999",1,No,21
+465,R_eEgww1V26zBLJQi,1,"$50,000 - $69,000",3,Yes,24
+466,R_4YOi6xty8pCB010,6,"$90,000 - $109,000",1,No,27
+467,R_bvWUn1bw0UKhdZ4,3,"$30,000 - $49,000",1,No,28
+468,R_3VGB6kigEm4zFhI,3,"$70,000 - $89,000",2,Yes,25
+469,R_81uhTKcUvVwMyDY,2,"$90,000 - $109,000",2,Yes,25
+470,R_4Sg60KR6DvZNO5M,6,"$0 - $9,999",2,Yes,22
+471,R_8k7Zz2f6z7z3e0C,3,"$70,000 - $89,000",2,No,27
+472,R_eX2m0H2nX1Ld8zk,4,"$90,000 - $109,000",1,Yes,24
+473,R_bQLTw2Qgv4SrBZQ,2,"$110,000 or more",4 or more,Yes,22
+474,R_cYK5xNeKfxFnqLk,3,"$10,000 - $29,000",1,No,19
+475,R_bykwAFtOnLHnrcG,2,"$50,000 - $69,000",4 or more,Yes,16
+476,R_0ptxFLJAWIEy67s,1,"$110,000 or more",3,Yes,28
+477,R_9mew8E6GmCP41mK,5,"$50,000 - $69,000",4 or more,Yes,23
+478,R_4HiVndguL3emCpw,6,"$0 - $9,999",3,No,26
+479,R_5gxn6wOjj7PYvWu,5,"$90,000 - $109,000",4 or more,No,27
+480,R_bHiGr0IhSfvDCom,5,"$110,000 or more",4 or more,No,18
+481,R_dapgdKf0b77Ib0W,2,"$110,000 or more",2,No,20
+482,R_5iKFmVBc43NL6Jw,5,"$90,000 - $109,000",2,Yes,27
+483,R_4ZNnUAaGPB9sMw6,7,"$90,000 - $109,000",2,No,28
+484,R_3l7QjlwNkKSuMuy,6,"$110,000 or more",2,No,27
+485,R_6PEXATl9jo4QwVE,7,"$50,000 - $69,000",2,No,26
+486,R_9yFQv0JagMwmBim,7,"$90,000 - $109,000",1,No,27
+487,R_etZ0VafP0ecO1me,5,"$110,000 or more",2,Yes,19
+488,R_3ORRqKt3iU3p7QW,1,"$50,000 - $69,000",None,No,24
+489,R_cGWZEXG84t1kANo,7,"$0 - $9,999",3,No,20
+490,R_2n27LSQLMN7jb3U,1,"$90,000 - $109,000",None,Yes,28
+491,R_cwQ5qKrENOFrHNk,3,"$10,000 - $29,000",4 or more,Yes,29
+492,R_72okzzYJOLRcMv4,4,"$30,000 - $49,000",None,Yes,22
+493,R_2h2wP6WOEJyjQj4,6,"$50,000 - $69,000",4 or more,Yes,29
+494,R_bloMAk31HmvX2fk,1,"$10,000 - $29,000",2,No,23
+495,R_5mRHVxQw15yCzdk,4,"$30,000 - $49,000",3,No,19
+496,R_5mxkyUB3u26kUoC,1,"$0 - $9,999",4 or more,Yes,34
+497,R_8k183AnyPo67m8C,2,"$10,000 - $29,000",2,Yes,24
+498,R_bskWVxu2fJnKHPM,6,"$50,000 - $69,000",1,Yes,23
+499,R_6s1A34fMvpADzWm,5,"$90,000 - $109,000",3,No,25
+500,R_baoXf6jwE0rHoYm,1,"$110,000 or more",None,Yes,26
+501,R_3lu5uO8ZvE2jpSm,6,"$110,000 or more",3,Yes,22
+502,R_6GnqiTgP7aiI3LE,4,"$30,000 - $49,000",1,No,24
+503,R_9vPI8jykzXXzAnY,1,"$50,000 - $69,000",None,No,25
+504,R_8D1NzYbXFEL5czA,7,"$50,000 - $69,000",None,No,30
+505,R_3gEEf03dysyfsjA,2,"$10,000 - $29,000",4 or more,Yes,29
+506,R_4G8nc2UaCV5r4ea,6,"$10,000 - $29,000",4 or more,No,26
+507,R_cvFfSPPR1gw1pxY,4,"$30,000 - $49,000",1,Yes,16
+508,R_3rbK93fp1KHegV8,1,"$50,000 - $69,000",4 or more,Yes,20
+509,R_0J7OR6gco962d3U,7,"$10,000 - $29,000",4 or more,No,26
+510,R_czKdMWYVYTwkAfA,2,"$30,000 - $49,000",1,Yes,24
+511,R_5A48dd8bFZlNvoy,7,"$90,000 - $109,000",1,Yes,26
+512,R_9BjhXfvdXzGw8rI,2,"$0 - $9,999",None,No,26
+513,R_eOPyNN4ggmwJ8Xk,1,"$10,000 - $29,000",1,Yes,24
+514,R_1N490Huy9NrPBDo,4,"$90,000 - $109,000",3,No,21
+515,R_b904NmAGRDn78eW,1,"$30,000 - $49,000",4 or more,No,22
+516,R_cPj636TmEzUOaDI,2,"$30,000 - $49,000",1,Yes,20
+517,R_6f0dCS3hwMO8lYq,4,"$90,000 - $109,000",1,No,22
+518,R_1EN9XcI8UhjkvL8,2,"$10,000 - $29,000",3,Yes,23
+519,R_6VHDww8rufDOmx0,4,"$30,000 - $49,000",4 or more,Yes,27
+520,R_9ytJXvuXNch6sjI,4,"$50,000 - $69,000",None,Yes,24
+521,R_3n1b6Qe5YcmrApM,2,"$110,000 or more",1,Yes,32
+522,R_5dwgAKQbJbmnsbQ,2,"$70,000 - $89,000",4 or more,No,25
+523,R_80rSjXPnpL2j1ga,5,"$110,000 or more",3,Yes,22
+524,R_5BDJDF6u4q1YswS,7,"$50,000 - $69,000",None,No,23
+525,R_8rld6lsevT7LCZw,2,"$90,000 - $109,000",3,Yes,29
+526,R_6zoADvGgIoMiGWO,3,"$0 - $9,999",4 or more,Yes,22
+527,R_cIRySWXHRVmzjJY,4,"$0 - $9,999",3,No,26
+528,R_b2ufge9G92vnVlA,5,"$30,000 - $49,000",2,Yes,27
+529,R_8GNrFOVPvm8m102,1,"$10,000 - $29,000",1,No,25
+530,R_7ZGKQMLTMSpZkDI,4,"$70,000 - $89,000",2,No,19
+531,R_5drw30WHrHRvJPg,6,"$110,000 or more",1,No,22
+532,R_9shwf9H7mP6QJGm,5,"$10,000 - $29,000",4 or more,Yes,27
+533,R_dbuTtzxuY0ZTDng,4,"$30,000 - $49,000",4 or more,Yes,25
+534,R_1TvChimNN9ozaBM,6,"$50,000 - $69,000",2,No,21
+535,R_3wpK3xc9mIr2u7c,2,"$90,000 - $109,000",2,No,24
+536,R_9MiEjs1gk8ZIkDA,6,"$10,000 - $29,000",4 or more,Yes,19
+537,R_204kSnTM4sZGoVE,1,"$110,000 or more",None,No,25
+538,R_e42aRzJWcsBXpsO,6,"$30,000 - $49,000",2,No,30
+539,R_2rVsU5pSTMlO3Z4,2,"$30,000 - $49,000",2,No,24
+540,R_4ZcOGKCRCHjrgh0,4,"$10,000 - $29,000",None,Yes,31
+541,R_3Vri1mL1gbEEzCS,5,"$30,000 - $49,000",None,Yes,22
+542,R_bjsXsdF3sBLX5hI,5,"$110,000 or more",3,Yes,21
+543,R_9v0YBV4GK2RPdK6,4,"$70,000 - $89,000",None,Yes,22
+544,R_dbz1t22i7gO2Wj4,3,"$30,000 - $49,000",3,Yes,16
+545,R_4G7PpICpsmXZC0S,5,"$30,000 - $49,000",None,Yes,21
+546,R_1B5CMHMro6mfk5E,6,"$90,000 - $109,000",1,No,27
+547,R_bszG9AKhdoy4nOu,1,"$70,000 - $89,000",1,Yes,19
+548,R_0rpnQycdZ5W54I6,1,"$0 - $9,999",3,No,25
+549,R_cJjbRzyQRKyQvEG,7,"$90,000 - $109,000",2,No,22
+550,R_8CviCIygTsBGNGC,6,"$10,000 - $29,000",2,Yes,22
+551,R_bPkHIykcMTkET1s,2,"$90,000 - $109,000",3,Yes,24
+552,R_01USvupIAleZN9c,3,"$70,000 - $89,000",None,Yes,16
+553,R_0VulY7vfqqf5jeu,1,"$10,000 - $29,000",1,No,25
+554,R_7NFlXHMyHGBbWB0,2,"$30,000 - $49,000",2,Yes,23
+555,R_0VDv8DKraCuFdpY,2,"$0 - $9,999",3,Yes,26
+556,R_5oSds39D1EVoYIK,6,"$110,000 or more",None,No,22
+557,R_d0fS0BMMeXRsbLU,3,"$70,000 - $89,000",1,No,21
+558,R_8iwT74nDuhHDgUK,4,"$90,000 - $109,000",None,Yes,22
+559,R_enDl3Imq1reEWAS,6,"$30,000 - $49,000",2,No,14
+560,R_5dq8Vxqdb7vA58y,4,"$110,000 or more",3,Yes,25
+561,R_2gz1S27448ibv4q,7,"$110,000 or more",None,No,24
+562,R_0PPsucpdM5aET9c,1,"$30,000 - $49,000",1,No,30
+563,R_erDJLe6zQ9KjJFc,5,"$10,000 - $29,000",2,No,25
+564,R_cwJ3pyIlDjXj4yi,4,"$110,000 or more",3,No,25
+565,R_cZOvjO7JDNaekrI,4,"$110,000 or more",4 or more,No,28
+566,R_0TmzXyi4U5vlJwW,3,"$50,000 - $69,000",1,Yes,25
+567,R_3kilEun4EYicB6e,3,"$90,000 - $109,000",2,Yes,21
+568,R_2shSwSGTqispkX4,5,"$30,000 - $49,000",2,Yes,22
+569,R_0NFXakfsBkCCEEm,5,"$0 - $9,999",None,No,21
+570,R_1TGTNhWOKbbrQY6,4,"$110,000 or more",4 or more,No,30
+571,R_1Ijzxc9V6VSauc6,1,"$90,000 - $109,000",1,Yes,18
+572,R_6h4tfyTkpSE5Urk,4,"$30,000 - $49,000",None,No,20
+573,R_4VqoV4JrDBYlldA,4,"$30,000 - $49,000",3,Yes,22
+574,R_6nAWkNlGDUyXK2q,1,"$70,000 - $89,000",1,Yes,21
+575,R_03vbIhh8RiIDV3M,3,"$90,000 - $109,000",4 or more,Yes,22
+576,R_eWAF8V0EdG6xsr4,5,"$110,000 or more",None,Yes,27
+577,R_2hQmKLdE7jvDet0,3,"$30,000 - $49,000",3,No,30
+578,R_cMg5OO6QZ3PgYbI,5,"$90,000 - $109,000",3,Yes,23
+579,R_6ERQboa1pZaA9HE,5,"$0 - $9,999",None,No,24
+580,R_ehb2rJWm3SkuJhQ,6,"$30,000 - $49,000",None,No,20
+581,R_6M2C3za8m4XBgHA,6,"$0 - $9,999",3,No,26
+582,R_cARsJPs1qGCIA4e,7,"$0 - $9,999",4 or more,No,34
+583,R_8IDFZ4hcV7BOwUC,4,"$70,000 - $89,000",2,No,32
+584,R_9MPBY2NM1Az7auO,6,"$50,000 - $69,000",4 or more,Yes,29
+585,R_0dD24SvKbLjlgzQ,2,"$90,000 - $109,000",4 or more,No,17
+586,R_3PNjAXKhWLYsv3w,1,"$70,000 - $89,000",None,No,23
+587,R_ePNzWdqby0PO7DE,6,"$30,000 - $49,000",1,No,29
+588,R_cIsHZDj0pGG6VZY,4,"$90,000 - $109,000",2,Yes,22
+589,R_0TxsXWm0XzwMCoe,6,"$90,000 - $109,000",2,No,27
+590,R_d115P6epAbNJNwa,7,"$10,000 - $29,000",None,Yes,19
+591,R_8udJ4T5aPg9ArvU,2,"$0 - $9,999",2,Yes,24
+592,R_bmv6MIqGdXB60hU,4,"$90,000 - $109,000",4 or more,No,22
+593,R_6hgoLcqsaMsD8Ka,7,"$70,000 - $89,000",4 or more,No,26
+594,R_b8AhtYLGFJsJUXQ,2,"$30,000 - $49,000",None,No,23
+595,R_5uQnvVPIJk8QBts,4,"$90,000 - $109,000",3,No,23
+596,R_39pWdIemFCFg5fg,6,"$30,000 - $49,000",3,Yes,23
+597,R_4SogjFucazJtJj0,5,"$30,000 - $49,000",4 or more,Yes,14
+598,R_8owIhccXVK1DRb0,4,"$0 - $9,999",2,Yes,24
+599,R_8eV8unKSML5Bh3g,4,"$10,000 - $29,000",None,Yes,22
+600,R_9Ze8FNMKtRcY6A6,5,"$30,000 - $49,000",1,Yes,26
+601,R_aaTHdePoAdj0zOu,1,"$50,000 - $69,000",2,No,33
+602,R_2gFChuBTs37wtq6,5,"$30,000 - $49,000",3,Yes,25
+603,R_6zIZJouyqm1J8IC,2,"$110,000 or more",1,No,21
+604,R_6DOePYTjXDMELae,6,"$110,000 or more",None,Yes,14
+605,R_8B9MRqWyZfuuV0y,2,"$90,000 - $109,000",2,Yes,11
+606,R_24eYVfTlUKppCho,3,"$50,000 - $69,000",2,No,24
+607,R_dppdybuM6CnEDs2,2,"$90,000 - $109,000",4 or more,Yes,22
+608,R_89e2dKaAZkBkw9U,1,"$90,000 - $109,000",1,Yes,22
+609,R_4OcGPkkKugo9mya,7,"$90,000 - $109,000",1,Yes,24
+610,R_5mt2ZuBdEE62wcu,7,"$90,000 - $109,000",1,Yes,29
+611,R_7ZO4Zyl5rUajkUK,6,"$10,000 - $29,000",1,Yes,25
+612,R_2mkO2Zr4CnjlMea,6,"$10,000 - $29,000",2,No,29
+613,R_3Oa6oTZwM5ABBKC,6,"$10,000 - $29,000",3,Yes,24
+614,R_0BqAVrjr1yaFXU2,6,"$90,000 - $109,000",None,Yes,20
+615,R_eM9kcS0H49P6Lhs,7,"$50,000 - $69,000",4 or more,Yes,24
+616,R_5orCVPdnEFZz3Om,1,"$70,000 - $89,000",2,No,27
+617,R_6Gr4JTbexdYZQJE,3,"$110,000 or more",4 or more,No,23
+618,R_9nO9zyxSTRQWQwS,3,"$10,000 - $29,000",None,No,28
+619,R_3xC99iOCEzCwpgi,4,"$110,000 or more",1,Yes,24
+620,R_9NxYvK4ZuU7NRDE,3,"$10,000 - $29,000",2,No,23
+621,R_6rM6c8ZrlOLbv7g,2,"$30,000 - $49,000",2,No,30
+622,R_cD3kxubb8pX7yoC,5,"$10,000 - $29,000",None,No,28
+623,R_1z531Upf3i9eaBo,3,"$110,000 or more",4 or more,Yes,29
+624,R_0VbrWaxJx51qvPw,4,"$90,000 - $109,000",1,Yes,25
+625,R_732Ws9Jhmt0gsBg,5,"$0 - $9,999",None,No,22
+626,R_esvYZJ6HvTUK3k2,1,"$110,000 or more",4 or more,No,20
+627,R_81TgM343iYwkTj0,7,"$10,000 - $29,000",4 or more,No,19
+628,R_4Ml2X9UD67U9fIq,4,"$70,000 - $89,000",1,Yes,29
+629,R_d6ah6QWjT12kZMy,3,"$90,000 - $109,000",4 or more,Yes,21
+630,R_6l0Od67FHLejtSC,4,"$0 - $9,999",None,Yes,19
+631,R_elLe0GqPKFwdACq,6,"$70,000 - $89,000",2,Yes,31
+632,R_00Q0v9n67AQayHQ,6,"$30,000 - $49,000",2,No,19
+633,R_eLM6UlCOV2tAYbc,6,"$90,000 - $109,000",None,No,26
+634,R_cI2r8bd0lgXQ2ZU,2,"$0 - $9,999",None,Yes,24
+635,R_77X4yF4MpAJkzVc,1,"$30,000 - $49,000",None,No,31
+636,R_8qOH8HctqqEv8ge,2,"$30,000 - $49,000",2,No,20
+637,R_0cXHoCmhH1XzgCG,3,"$110,000 or more",None,No,22
+638,R_af7dkCnWBBt2H5k,5,"$110,000 or more",3,Yes,16
+639,R_9KNYTxFwjUouiMu,3,"$90,000 - $109,000",1,No,25
+640,R_9Xr7zw0rriDv1R4,6,"$10,000 - $29,000",2,Yes,32
+641,R_2nM0jv6QCnJarIy,2,"$50,000 - $69,000",3,Yes,22
+642,R_50xcYnYfSjAzR78,2,"$10,000 - $29,000",None,Yes,21
+643,R_01fZKBxfn62S2GO,6,"$90,000 - $109,000",1,Yes,28
+644,R_8CXbPz6UUuIQxXE,3,"$0 - $9,999",2,No,16
+645,R_7Qfch8blGJEKxTg,2,"$110,000 or more",3,Yes,26
+646,R_7ap9ECF0d3nT8Q6,3,"$50,000 - $69,000",4 or more,No,26
+647,R_01iD87boHijQ6Wy,1,"$110,000 or more",2,Yes,23
+648,R_6D3toBEuDOtc9WS,7,"$0 - $9,999",4 or more,No,23
+649,R_4IQgaLJFkzQH5xY,1,"$110,000 or more",4 or more,Yes,13
+650,R_0v1JUnXmOrRtu9E,3,"$0 - $9,999",3,Yes,13
+651,R_bKLV9aMCTzvnLJs,2,"$50,000 - $69,000",4 or more,Yes,28
+652,R_8whXc397WGfWTUa,3,"$30,000 - $49,000",4 or more,Yes,26
+653,R_bf2RsdZdzv0UqdE,2,"$50,000 - $69,000",3,Yes,18
+654,R_74lmOQBNnJQAs8S,1,"$110,000 or more",4 or more,No,26
+655,R_bEECNtrj9T5TKh8,6,"$10,000 - $29,000",None,No,27
+656,R_6u29WeHPCntrRuC,4,"$70,000 - $89,000",1,No,37
+657,R_6tnwaycq9u8b76u,2,"$90,000 - $109,000",2,Yes,25
+658,R_3xAnwzjdvOGems6,3,"$70,000 - $89,000",4 or more,Yes,21
+659,R_8eMxO9rAu7ERXoy,2,"$70,000 - $89,000",2,Yes,29
+660,R_0qxBcFomKLPULTU,3,"$0 - $9,999",None,Yes,20
+661,R_cA4CownD1VT33dI,7,"$30,000 - $49,000",2,No,22
+662,R_7PZbUqomTgA7N7o,4,"$10,000 - $29,000",4 or more,Yes,24
+663,R_57MhIm5ZgNYunIy,4,"$30,000 - $49,000",2,No,29
+664,R_0NWnzpdi8FvUtIG,7,"$0 - $9,999",4 or more,No,22
+665,R_cHADpNx6EiH8PT8,6,"$10,000 - $29,000",1,No,27
+666,R_3UXhxSIur9tlq0C,4,"$110,000 or more",2,No,23
+667,R_1Y152dgV7yDzTFQ,1,"$110,000 or more",4 or more,Yes,22
+668,R_bNPeulwrT8LH59Y,5,"$0 - $9,999",3,No,23
+669,R_e9tZMI22XqbQQ3Y,1,"$50,000 - $69,000",None,Yes,21
+670,R_dn8vmaJBrnFQMCi,6,"$0 - $9,999",1,Yes,27
+671,R_cO7U2724zJDElvM,7,"$50,000 - $69,000",2,Yes,20
+672,R_4UPEV6Ep3BO8Kh0,6,"$90,000 - $109,000",3,Yes,25
+673,R_5inHo8HOIuWZnFk,6,"$10,000 - $29,000",3,Yes,27
+674,R_5byKRyosYuFCWnY,2,"$70,000 - $89,000",2,No,31
+675,R_erGKaBKkfuA7t3w,5,"$110,000 or more",None,Yes,29
+676,R_6rGUhDO3MV23EhM,4,"$90,000 - $109,000",1,Yes,21
+677,R_1AIFOk8ur1Jy2Ng,7,"$70,000 - $89,000",2,No,18
+678,R_bl438utQAfsuuou,4,"$90,000 - $109,000",2,No,19
+679,R_77MMrazrnBYARy6,1,"$50,000 - $69,000",2,Yes,20
+680,R_bjYHwO22ZkQIhXE,3,"$70,000 - $89,000",None,No,21
+681,R_4Sc2KYFcHQIXR1s,1,"$110,000 or more",2,No,20
+682,R_6Asz9qU9xLrDbAq,5,"$10,000 - $29,000",None,Yes,25
+683,R_4ZoSjYKaxSytwpg,1,"$30,000 - $49,000",1,Yes,24
+684,R_0CGefaUsy2p3g1w,2,"$50,000 - $69,000",2,No,29
+685,R_0VWR9hw6ZhxYozI,3,"$30,000 - $49,000",3,Yes,19
+686,R_9zPENPUyWwFcW34,3,"$110,000 or more",4 or more,No,21
+687,R_6Lufg0hcnT7TPVA,4,"$10,000 - $29,000",1,Yes,23
+688,R_ekutpPfNZccS3RA,1,"$10,000 - $29,000",2,No,18
+689,R_aaXZIjCw8kjLrfg,2,"$110,000 or more",3,Yes,30
+690,R_eySGOriKDCi5vEO,3,"$0 - $9,999",None,Yes,24
+691,R_9TshTyOV2uqp250,5,"$50,000 - $69,000",4 or more,No,23
+692,R_40COicW7ezwssFU,4,"$70,000 - $89,000",3,No,27
+693,R_4MyGlKSMRgGULD8,4,"$0 - $9,999",4 or more,No,20
+694,R_3K0M3hEZmub2MzY,7,"$110,000 or more",3,Yes,22
+695,R_b8voUMYF8ieQLBA,1,"$30,000 - $49,000",4 or more,No,19
+696,R_8BbjFeN8bgecmA6,4,"$110,000 or more",2,Yes,23
+697,R_eIMe1TQkpQBuCvs,4,"$90,000 - $109,000",1,Yes,24
+698,R_29ORwipOidQv9gG,5,"$50,000 - $69,000",2,No,24
+699,R_0W12bWLsEqgpYTs,3,"$0 - $9,999",3,No,20
+700,R_byJTNzzJ2jJD4W2,3,"$30,000 - $49,000",None,Yes,17
+701,R_cCsm11XQy831RfU,5,"$50,000 - $69,000",None,No,28
+702,R_2gIaKc2DqYtJ4P4,2,"$0 - $9,999",None,Yes,13
+703,R_brBOJLz6FmXJqxE,5,"$10,000 - $29,000",1,No,17
+704,R_9GFV6gGLLWLC9ee,7,"$50,000 - $69,000",4 or more,No,19
+705,R_3UYKL8aoQ5i0Yke,6,"$110,000 or more",3,No,28
+706,R_0VNMtwvV0gGsYpo,6,"$30,000 - $49,000",3,No,23
+707,R_erf5dHOCnFOA6eW,5,"$70,000 - $89,000",3,No,17
+708,R_6W5qXRKqHWhp8Lc,7,"$10,000 - $29,000",None,No,28
+709,R_4I0aL7XLZ4VLgUK,2,"$70,000 - $89,000",None,Yes,27
+710,R_0JSizqYNOMSLaWW,3,"$50,000 - $69,000",4 or more,No,32
+711,R_245hnK0oXLpH78O,4,"$90,000 - $109,000",1,Yes,28
+712,R_2lviQGfory2vvWC,6,"$110,000 or more",1,Yes,28
+713,R_8xhy7msH2dmhOCy,2,"$110,000 or more",1,Yes,24
+714,R_9Br0ZAxv4bvqzv8,4,"$10,000 - $29,000",4 or more,No,30
+715,R_5o8Vb8yZOHUMCWi,2,"$90,000 - $109,000",2,No,26
+716,R_cP9IpALoUcUQ8fQ,4,"$30,000 - $49,000",2,Yes,26
+717,R_6tDm2T8dM0tt1ZA,4,"$90,000 - $109,000",None,Yes,25
+718,R_3xWEWCXGimgYSLY,6,"$70,000 - $89,000",2,Yes,25
+719,R_880heMWQXkrVkEK,3,"$90,000 - $109,000",None,No,25
+720,R_d08KKidn499riku,2,"$110,000 or more",None,No,22
+721,R_3FdhVetlbP3BHYW,3,"$70,000 - $89,000",3,Yes,21
+722,R_0ecgwrnsjdgekhU,1,"$0 - $9,999",1,Yes,18
+723,R_0822nNND9MbEcVE,2,"$0 - $9,999",3,Yes,27
+724,R_3KoWM6OH9q3GreC,4,"$50,000 - $69,000",3,No,25
+725,R_8He8TTy27nGGYtM,6,"$70,000 - $89,000",None,Yes,31
+726,R_eRjaIo4RJCR1pvE,1,"$70,000 - $89,000",None,No,26
+727,R_6LvcK90KpJqQs5g,4,"$0 - $9,999",1,No,19
+728,R_8J8vZcQr6Vwl8gu,2,"$50,000 - $69,000",2,Yes,24
+729,R_2hF6vBFMI82bTUy,4,"$0 - $9,999",4 or more,Yes,23
+730,R_bqMrvi6MyjjVjmK,7,"$0 - $9,999",2,Yes,23
+731,R_0IejR6jW2iog0xo,1,"$10,000 - $29,000",2,No,18
+732,R_6VAaAfrVjY7xhVs,1,"$70,000 - $89,000",3,No,24
+733,R_eL1OLgc0Zx17ybI,6,"$90,000 - $109,000",4 or more,Yes,18
+734,R_eVdPX5WNX2ryRAG,1,"$70,000 - $89,000",None,No,28
+735,R_38BHbvvGTEjqufs,5,"$30,000 - $49,000",3,No,22
+736,R_cAxGVVTPJUtoJQW,5,"$10,000 - $29,000",2,No,23
+737,R_9TWsiy3VwNGNbMi,2,"$90,000 - $109,000",1,No,21
+738,R_9AggLlKnuEvOtPE,3,"$30,000 - $49,000",1,Yes,24
+739,R_cUdB3mpvoF4Gxam,1,"$110,000 or more",1,No,25
+740,R_cYDb3G50sI2AhiS,3,"$0 - $9,999",1,Yes,18
+741,R_0uoo6jrmupH2tsq,5,"$0 - $9,999",None,No,20
+742,R_2rGW2M3MLlStcvc,1,"$70,000 - $89,000",3,No,22
+743,R_9RA7dZZqFifjM58,4,"$50,000 - $69,000",None,No,29
+744,R_bPZX01tk7wzjuDk,3,"$110,000 or more",None,No,23
+745,R_cMW9pLXuFzGHDU2,7,"$110,000 or more",2,Yes,30
+746,R_73AxKMiLLpfjiYe,6,"$110,000 or more",3,No,20
+747,R_5ovN7t2MVW1mMxU,2,"$70,000 - $89,000",4 or more,Yes,21
+748,R_cApCNcUydZU3vjU,2,"$10,000 - $29,000",1,No,27
+749,R_ekwMKGFZIz12Y5g,6,"$90,000 - $109,000",1,Yes,18
+750,R_eQaO13PiZpWHNFY,6,"$110,000 or more",4 or more,No,27
+751,R_9v4Zg4EoMeBbvHU,5,"$30,000 - $49,000",4 or more,No,29
+752,R_bQqbQtRxBohp1Gu,3,"$50,000 - $69,000",4 or more,No,26
+753,R_8nXRjS7uvMSwIPI,6,"$0 - $9,999",3,Yes,32
+754,R_d43xhwmsfhC84mO,6,"$10,000 - $29,000",4 or more,No,22
+755,R_1IgD7KP6hpEKXtQ,4,"$30,000 - $49,000",4 or more,Yes,17
+756,R_eafe2GDxgodHicK,4,"$10,000 - $29,000",1,No,25
+757,R_b7OY1QbZxLDkyFM,2,"$30,000 - $49,000",1,Yes,25
+758,R_56JPJ6VSOIIjoQS,5,"$110,000 or more",1,No,15
+759,R_a5URjSmJwL3XXa6,2,"$30,000 - $49,000",1,Yes,25
+760,R_08qB0YGAkVjMfau,6,"$10,000 - $29,000",4 or more,Yes,14
+761,R_0qCjlaoFE5gDW3c,1,"$70,000 - $89,000",2,No,24
+762,R_0VTV1FytrJE4fcO,2,"$30,000 - $49,000",2,No,21
+763,R_8xhxOY9NwkSoR3E,3,"$70,000 - $89,000",2,No,26
+764,R_5uo19V6dabajpX0,7,"$50,000 - $69,000",3,Yes,24
+765,R_eexxIt9uz78oTwq,5,"$10,000 - $29,000",4 or more,Yes,27
+766,R_4Mn0z2YCWP0vu74,5,"$90,000 - $109,000",None,Yes,26
+767,R_cHgbOdck5qBXNWe,5,"$70,000 - $89,000",None,No,29
+768,R_6u4TWlYzdyxBfjo,6,"$50,000 - $69,000",3,Yes,28
+769,R_bypeQmuHK8oMWuG,2,"$30,000 - $49,000",1,No,22
+770,R_2fzR9W9OWjvRuLk,5,"$0 - $9,999",1,No,30
+771,R_7Vz5BW9elxa6DFY,1,"$10,000 - $29,000",3,Yes,18
+772,R_3g94JpwkwXQWSqy,3,"$0 - $9,999",4 or more,No,26
+773,R_81yRDKi5lfv2XzM,7,"$90,000 - $109,000",2,No,26
+774,R_3drXVnwUPDdYjtQ,3,"$90,000 - $109,000",4 or more,Yes,22
+775,R_9F5AOPPHFodxBxY,6,"$50,000 - $69,000",2,Yes,17
+776,R_b7ApT2bxJcWvDwi,4,"$90,000 - $109,000",4 or more,Yes,18
+777,R_b29kjDwrC1bzVZQ,3,"$70,000 - $89,000",2,Yes,13
+778,R_4SBqKnS9GALaVdI,6,"$50,000 - $69,000",None,Yes,27
+779,R_5tJbuq6jor21Hmu,7,"$90,000 - $109,000",None,No,24
+780,R_2nIyrC3AK4smEUm,4,"$10,000 - $29,000",None,Yes,23
+781,R_5t0p3Tl2yClidUi,5,"$70,000 - $89,000",2,No,18
+782,R_9YNIYFKFcWR07no,2,"$10,000 - $29,000",1,No,24
+783,R_5o8bKQYyhbd6qa2,7,"$30,000 - $49,000",4 or more,Yes,22
+784,R_bxrhb3GBQQCZOcK,5,"$110,000 or more",2,Yes,24
+785,R_bp8j5OXEKKHCS9g,3,"$70,000 - $89,000",3,No,24
+786,R_cNQtYDNOEMkAu34,3,"$70,000 - $89,000",3,No,23
+787,R_ekr1INplMeCNU7I,4,"$110,000 or more",1,No,18
+788,R_brsFHpXAm6roiXk,1,"$10,000 - $29,000",3,No,23
+789,R_5tDnDexCuTbUVN4,1,"$70,000 - $89,000",2,No,24
+790,R_6Klp0eI0WoIpFSC,3,"$10,000 - $29,000",4 or more,Yes,24
+791,R_eyUcsFxODHPyrCS,7,"$0 - $9,999",None,Yes,30
+792,R_3w02dTKbErxmZka,3,"$30,000 - $49,000",3,Yes,27
+793,R_5u2A78b3HQ0zt0W,5,"$30,000 - $49,000",4 or more,Yes,24
+794,R_3xhtGVh3gBd9HKu,7,"$90,000 - $109,000",4 or more,Yes,19
+795,R_5hihONXhC4xhErA,7,"$70,000 - $89,000",1,Yes,18
+796,R_6yPAOUi7Voe8T4y,7,"$70,000 - $89,000",2,Yes,24
+797,R_bBd735p6BczXkwK,6,"$70,000 - $89,000",1,No,19
+798,R_cYlQ9gxpxnO40Ps,7,"$30,000 - $49,000",None,Yes,27
+799,R_86V0ztqNddsRIyO,2,"$0 - $9,999",3,No,27
+800,R_0HXFyu6cIszYl94,6,"$70,000 - $89,000",4 or more,Yes,17
+801,R_6PWSsjuINyqXTzU,4,"$0 - $9,999",4 or more,Yes,17
+802,R_6Q2C23IQ5cUBHHE,3,"$90,000 - $109,000",4 or more,No,26
+803,R_1zsrfhVJIMFAlJI,3,"$0 - $9,999",4 or more,No,21
+804,R_9L8Az60ZhvTscjs,1,"$110,000 or more",1,No,30
+805,R_1FVlqAkVG83V63s,4,"$110,000 or more",3,Yes,29
+806,R_3EOPmWk6fojLrTw,3,"$10,000 - $29,000",4 or more,Yes,28
+807,R_3lMUuzHyybG53vM,2,"$110,000 or more",1,Yes,19
+808,R_23qyiWz1FTSXdEa,5,"$90,000 - $109,000",3,Yes,18
+809,R_cTl4l27efJPD3tI,5,"$110,000 or more",3,Yes,27
+810,R_3rqmzgOKBk1gaEK,6,"$110,000 or more",2,Yes,32
+811,R_884OgrNhXA2xQDY,6,"$50,000 - $69,000",None,Yes,30
+812,R_d0R5LM8hYqyZizs,1,"$90,000 - $109,000",4 or more,Yes,22
+813,R_2sExZDTO8PTubxc,1,"$90,000 - $109,000",4 or more,Yes,23
+814,R_8BmGqaJ2JGqlRLE,7,"$70,000 - $89,000",None,No,19
+815,R_5uOIlQXAMhwMf30,5,"$30,000 - $49,000",2,No,29
+816,R_0dCRVrnpaOIElMy,7,"$30,000 - $49,000",4 or more,Yes,16
+817,R_3xBI3o5587ThZwq,6,"$0 - $9,999",1,Yes,23
+818,R_1YV1mmEFZrPeEzs,7,"$110,000 or more",2,No,29
+819,R_71hx9JKanJGyA8C,4,"$70,000 - $89,000",4 or more,Yes,25
+820,R_cuujNKccd3BhBxs,1,"$90,000 - $109,000",4 or more,Yes,30
+821,R_bmiff5V3UqyLMb4,6,"$70,000 - $89,000",1,No,25
+822,R_6EW2qsBQlCllrjE,3,"$90,000 - $109,000",3,No,22
+823,R_390Y9daT5RUVjhk,7,"$10,000 - $29,000",1,Yes,22
+824,R_cY2aATn4ELrv4Pk,2,"$0 - $9,999",4 or more,Yes,24
+825,R_3z4mH9iiF1mzAXk,2,"$70,000 - $89,000",4 or more,No,22
+826,R_5jo4ONPB4dY2Pgq,3,"$70,000 - $89,000",4 or more,Yes,18
+827,R_dhY3JbqJa3SaOVg,4,"$90,000 - $109,000",2,Yes,22
+828,R_51Ma80OHOXfCHye,7,"$90,000 - $109,000",2,Yes,29
+829,R_9SvkCCTcJ2kqAGG,4,"$0 - $9,999",1,Yes,20
+830,R_5tY74uixAwRGZsq,5,"$90,000 - $109,000",2,No,23
+831,R_5nahnuOurJp6Yke,3,"$0 - $9,999",4 or more,Yes,24
+832,R_ahsunmW7MleI8o6,5,"$30,000 - $49,000",None,No,23
+833,R_0ohoDEVGZ1BdWGW,2,"$10,000 - $29,000",3,No,25
+834,R_0jiDTUNtisUwJvw,3,"$30,000 - $49,000",3,No,26
+835,R_9Y7Ix3HyFYMz12K,7,"$110,000 or more",1,No,20
+836,R_9WEMSrTjIMBXIb4,7,"$110,000 or more",None,Yes,23
+837,R_d4Fz5HJFdwh2Mwm,4,"$50,000 - $69,000",2,No,20
+838,R_9sNc7JZ3an4JX1Q,4,"$70,000 - $89,000",1,Yes,24
+839,R_ePPVHBSCSB8hrcG,1,"$110,000 or more",4 or more,No,25
+840,R_9tzkdOWAePWSHHM,6,"$90,000 - $109,000",3,Yes,23
+841,R_9KVjj6THPYoOXIi,7,"$30,000 - $49,000",1,Yes,21
+842,R_3Pjs7gLamkKGfLE,5,"$110,000 or more",2,Yes,23
+843,R_1BP0U8tyLFaeDJ4,7,"$30,000 - $49,000",4 or more,Yes,24
+844,R_afaJPv7ioF7RAFM,3,"$50,000 - $69,000",3,Yes,18
+845,R_3HI8JIpymGqig7k,5,"$10,000 - $29,000",2,Yes,23
+846,R_0HfJddqnmTM5F30,5,"$30,000 - $49,000",3,No,22
+847,R_3fJPVwDeoZ0oVwi,3,"$90,000 - $109,000",4 or more,No,25
+848,R_emO7rcX1dnfwXj0,3,"$90,000 - $109,000",2,No,17
+849,R_cU3xyfCFhYYDR78,3,"$90,000 - $109,000",4 or more,No,19
+850,R_aY6bGjGDFTROREO,1,"$0 - $9,999",2,No,26
+851,R_09vUenGr0GuNrdI,5,"$50,000 - $69,000",3,No,22
+852,R_4Mmr60PBjrEJh0q,1,"$10,000 - $29,000",4 or more,No,25
+853,R_2gdi64uSUWlmqay,6,"$90,000 - $109,000",3,No,27
+854,R_0qxkwjk7pMr754i,3,"$10,000 - $29,000",2,No,21
+855,R_8IlJvHTNzJqxeN8,3,"$110,000 or more",3,Yes,21
+856,R_9miz8HiSMHQL9fE,2,"$30,000 - $49,000",2,Yes,32
+857,R_2332ARPIaWiM4e2,6,"$110,000 or more",2,Yes,29
+858,R_0DIsQKjqTt5owSi,4,"$10,000 - $29,000",2,Yes,22
+859,R_bwNPVIB9gDFK8Hc,1,"$10,000 - $29,000",None,Yes,34
+860,R_6PDs044z5j0yLCm,6,"$0 - $9,999",3,No,25
+861,R_73f2hozf8gifALY,3,"$10,000 - $29,000",2,Yes,22
+862,R_6xtCkTbDc7pD6pU,1,"$110,000 or more",1,Yes,21
+863,R_2tUpE1AvsOc1MUe,7,"$90,000 - $109,000",4 or more,No,26
+864,R_e2nhlHOnbiWu2nc,3,"$30,000 - $49,000",3,No,27
+865,R_4UyJm1Fqlw8rrgy,3,"$90,000 - $109,000",1,Yes,32
+866,R_823ixws2dsnzFUa,1,"$90,000 - $109,000",None,No,14
+867,R_eqSBJCo314sz9X0,4,"$90,000 - $109,000",None,Yes,27
+868,R_eRrs6tSXuOQl2oC,6,"$70,000 - $89,000",1,Yes,19
+869,R_bxfhlerta5gFlRk,1,"$70,000 - $89,000",2,No,19
+870,R_08H3fFwVJICDXVQ,5,"$30,000 - $49,000",3,No,20
+871,R_0iZr0uukt2avNEW,2,"$50,000 - $69,000",None,Yes,31
+872,R_enYJFUN1EiU1TAa,3,"$90,000 - $109,000",2,Yes,36
+873,R_3VE1qVLCiJkGZr8,4,"$0 - $9,999",2,No,25
+874,R_eOF174kS936ugAe,4,"$70,000 - $89,000",4 or more,No,29
+875,R_en9T8DOWPc9gHT8,7,"$110,000 or more",2,Yes,25
+876,R_6sRqqe9RuitOlgy,3,"$30,000 - $49,000",2,No,26
+877,R_4OOWPj7p6JsfG06,6,"$70,000 - $89,000",None,No,25
+878,R_37WZUkdNlDW2rmC,3,"$30,000 - $49,000",None,Yes,26
+879,R_785QeXN74me5y5w,5,"$0 - $9,999",4 or more,Yes,24
+880,R_dj2SZ6ZBBXPLDj8,7,"$110,000 or more",4 or more,Yes,27
+881,R_55VAVGVM7IbpFTU,7,"$70,000 - $89,000",4 or more,Yes,27
+882,R_3RbgUDGEDmk1kV0,5,"$50,000 - $69,000",1,No,23
+883,R_8vTfCjhcEt6Ow2G,3,"$70,000 - $89,000",4 or more,No,23
+884,R_8IYcr8G8OwD3scC,6,"$0 - $9,999",None,Yes,22
+885,R_2tW3jRykRk7DKDQ,2,"$110,000 or more",4 or more,No,22
+886,R_24EiLsMNBW8gnqK,4,"$70,000 - $89,000",None,Yes,27
+887,R_9oCugvmtmYqkTsO,6,"$0 - $9,999",3,Yes,21
+888,R_3BD9uvyFFor9hJ4,4,"$70,000 - $89,000",2,Yes,26
+889,R_5zQpjwom1ipyClE,1,"$30,000 - $49,000",1,No,19
+890,R_0oaRoRzEfd77SFU,6,"$70,000 - $89,000",2,Yes,19
+891,R_3rTK7Ik57L1oW7c,3,"$90,000 - $109,000",1,Yes,23
+892,R_bQ6ORSSn92Pz0nI,1,"$0 - $9,999",3,No,27
+893,R_aafH3jgXFAXz9hY,7,"$70,000 - $89,000",3,Yes,23
+894,R_8Cy3tjXFvSuxgMu,4,"$0 - $9,999",1,Yes,26
+895,R_88lA2RB2EBQ1nGS,6,"$10,000 - $29,000",2,Yes,29
+896,R_cGC2fxWanyf8qnI,2,"$0 - $9,999",3,Yes,26
+897,R_4IMa56JYzMKqYrc,1,"$90,000 - $109,000",2,Yes,22
+898,R_82GUUiFW1X4A7hs,1,"$50,000 - $69,000",None,No,26
+899,R_bDHi2Igg1ye02H4,7,"$10,000 - $29,000",3,Yes,23
+900,R_cDgR2TmF4jxehhQ,7,"$70,000 - $89,000",3,Yes,26
+901,R_5vT2q0hXTyPhvBY,6,"$0 - $9,999",2,Yes,22
+902,R_begReh2ZQXWTHng,4,"$10,000 - $29,000",3,No,21
+903,R_3s1fyRt6Ig3Wa7s,2,"$10,000 - $29,000",3,Yes,18
+904,R_5gWksLW7JTL5WMC,2,"$0 - $9,999",1,No,27
+905,R_b15wCRlyP9sx5ki,1,"$90,000 - $109,000",3,No,26
+906,R_etCvDL2YQmvhR3w,4,"$10,000 - $29,000",4 or more,Yes,15
+907,R_71HS4rXhTuetfYq,5,"$90,000 - $109,000",2,Yes,18
+908,R_cBHH6G2gA4cON7M,7,"$90,000 - $109,000",None,No,19
+909,R_dg9ej3y3oUhVfOS,6,"$30,000 - $49,000",2,Yes,34
+910,R_73w3u9DRigw8cGW,3,"$10,000 - $29,000",1,Yes,27
+911,R_40mNKsqpEE4fprw,2,"$110,000 or more",1,Yes,24
+912,R_1X3nHwzLEhl132C,5,"$30,000 - $49,000",3,Yes,27
+913,R_bBdvLCgp9r0Y7fo,2,"$110,000 or more",1,No,22
+914,R_bEMBlDiDGwAzJiu,6,"$90,000 - $109,000",3,Yes,20
+915,R_3n4LpC09t9OL18q,5,"$0 - $9,999",2,No,23
+916,R_abYyW7KXtdRsDBQ,3,"$10,000 - $29,000",4 or more,Yes,25
+917,R_7Q9kuLZmpUci4wm,5,"$0 - $9,999",1,Yes,24
+918,R_b336mTZ95lvih6u,1,"$90,000 - $109,000",2,No,21
+919,R_cOu6VfUW5YgQRdY,4,"$110,000 or more",3,No,23
+920,R_5tHUZ9G9FTw8ENU,6,"$70,000 - $89,000",1,No,33
+921,R_blJj3WvUPt3mdz8,2,"$30,000 - $49,000",3,Yes,33
+922,R_2sLOuKBzZSwHDFA,3,"$90,000 - $109,000",3,No,22
+923,R_2nJnVHYPRMTM3Yi,1,"$30,000 - $49,000",None,Yes,29
+924,R_byeQZBdAQJrxyIu,4,"$10,000 - $29,000",None,No,26
+925,R_cTos8jSyHNWhIc6,1,"$110,000 or more",4 or more,Yes,19
+926,R_0cznnGuArGhqMAu,3,"$10,000 - $29,000",2,Yes,20
+927,R_1Yr48TkjBnjuwfk,5,"$50,000 - $69,000",2,No,29
+928,R_8zT7vifls3mHmbI,4,"$70,000 - $89,000",4 or more,No,21
+929,R_8jPl3MfnSpx9fD0,3,"$90,000 - $109,000",4 or more,No,29
+930,R_3rs2X7IBmufDMrk,7,"$110,000 or more",4 or more,No,22
+931,R_26xqBsXIEHmA0uO,3,"$30,000 - $49,000",1,Yes,21
+932,R_3f5nVOWPc3pgzvo,1,"$30,000 - $49,000",1,No,25
+933,R_b71G6m2fJJyICoe,7,"$70,000 - $89,000",None,No,19
+934,R_ahppsCrq47o5oqO,4,"$70,000 - $89,000",4 or more,No,26
+935,R_eL4nyEeLKfbDoi2,2,"$50,000 - $69,000",1,Yes,27
+936,R_73xdR9hltkKhiPs,4,"$10,000 - $29,000",3,No,28
+937,R_6hAL9JvEU89M3tQ,4,"$50,000 - $69,000",None,No,22
+938,R_0JtkQkEIH1wQkgC,7,"$70,000 - $89,000",None,No,28
+939,R_8pPrN0P1ZuM1B7o,1,"$50,000 - $69,000",4 or more,Yes,26
+940,R_6VGie282YbF7XLg,6,"$50,000 - $69,000",None,Yes,27
+941,R_8HfzXWiJcyKGzoG,7,"$30,000 - $49,000",3,Yes,19
+942,R_6QYYtC4VjdOdUO2,3,"$30,000 - $49,000",2,Yes,26
+943,R_3ltfwia4yxKeipM,6,"$10,000 - $29,000",3,No,30
+944,R_bvCyE8qZPub2T1s,3,"$10,000 - $29,000",None,No,22
+945,R_bmtG6gNVbhzzoEe,2,"$110,000 or more",1,Yes,19
+946,R_4U7K3VGmVEMBtZ4,4,"$0 - $9,999",1,No,26
+947,R_eW2Y4MfqnO8Wz6C,5,"$90,000 - $109,000",1,Yes,22
+948,R_bf1A6lKZDtNHM9g,4,"$110,000 or more",4 or more,No,22
+949,R_3CWLs3qTXP7Hwwu,1,"$30,000 - $49,000",2,Yes,14
+950,R_db5xFYMhP0wTX7M,1,"$50,000 - $69,000",1,No,21
+951,R_0SPmfVvQbF0kp82,7,"$90,000 - $109,000",None,Yes,22
+952,R_3CY8glZdMLZwGlE,2,"$50,000 - $69,000",4 or more,No,28
+953,R_4NntYJi1sULVsSG,6,"$0 - $9,999",None,No,23
+954,R_cSh8XB2VoetLOTA,3,"$0 - $9,999",1,No,29
+955,R_9sltzs2v1SVMIrc,2,"$90,000 - $109,000",1,Yes,23
+956,R_5tenIoqdalOl4yO,7,"$110,000 or more",3,Yes,21
+957,R_4GTdeeJ88YlGiDs,7,"$10,000 - $29,000",2,Yes,22
+958,R_eQkKval1iFk0WSW,1,"$50,000 - $69,000",4 or more,Yes,19
+959,R_00zXrGBmKsrYLnU,3,"$50,000 - $69,000",2,No,23
+960,R_bjtFfbBslSzVddk,4,"$110,000 or more",1,No,23
+961,R_cAT0I9X5Kdc0ILA,3,"$10,000 - $29,000",None,Yes,26
+962,R_eWhgtahu2Ctaq6W,6,"$50,000 - $69,000",3,No,30
+963,R_0fcVNLJP0ZzRnr8,1,"$110,000 or more",4 or more,No,23
+964,R_6hzGFhMfVWUqpfw,2,"$50,000 - $69,000",1,Yes,31
+965,R_2fdXj22zzAWYrmm,3,"$90,000 - $109,000",3,Yes,25
+966,R_2sLS8G4FmTQhzNk,5,"$50,000 - $69,000",2,Yes,28
+967,R_4JlaSVICne4ZaZg,2,"$30,000 - $49,000",1,Yes,23
+968,R_0Hhu4axLX3c03vE,7,"$0 - $9,999",1,Yes,20
+969,R_b3dEPNGVvlIZgQ6,6,"$10,000 - $29,000",1,Yes,28
+970,R_6wXk92iwsrBHiLk,4,"$30,000 - $49,000",1,No,22
+971,R_1ZmxwCbdawvYjRA,6,"$10,000 - $29,000",1,No,19
+972,R_3lsvITqFP9aTAnI,2,"$110,000 or more",2,Yes,26
+973,R_eWqRgHMStTLKRaS,7,"$30,000 - $49,000",1,No,27
+974,R_5BUXoKofFAOkAx8,4,"$10,000 - $29,000",3,Yes,27
+975,R_7QFNd53FiOKDnYa,3,"$110,000 or more",None,Yes,26
+976,R_e96BgJsWeXPrc2O,4,"$110,000 or more",4 or more,No,25
+977,R_bJJpZf1lCNDwaEK,1,"$90,000 - $109,000",1,Yes,21
+978,R_b90wkEkCl0ZXVOu,3,"$70,000 - $89,000",3,Yes,27
+979,R_6xvuwEml3wFtpkO,6,"$90,000 - $109,000",1,No,23
+980,R_a9IfUGmhUlRnPtc,5,"$10,000 - $29,000",3,Yes,21
+981,R_74lcbkd5tiRYogC,5,"$70,000 - $89,000",1,Yes,25
+982,R_1RdspiuLZksvggK,1,"$30,000 - $49,000",None,Yes,19
+983,R_eRt64kNU9RxjNqK,3,"$90,000 - $109,000",1,Yes,35
+984,R_06qO5hVhpvBOeeq,3,"$70,000 - $89,000",2,No,26
+985,R_3mw08mQxFap4G34,1,"$110,000 or more",4 or more,No,28
+986,R_5w1agj4DRVrzqzY,1,"$70,000 - $89,000",None,Yes,31
+987,R_exNK2MRegPFBSaa,6,"$70,000 - $89,000",1,Yes,24
+988,R_7QldrPmX5t9OLXM,4,"$90,000 - $109,000",1,No,27
+989,R_2ov8AvbW44PFKSy,7,"$70,000 - $89,000",1,Yes,26
+990,R_6AnTAk08iNNWO3Q,1,"$30,000 - $49,000",None,No,24
+991,R_eL3eQWlhKAWSnzg,5,"$70,000 - $89,000",3,Yes,22
+992,R_4Z4tiKtMfwGnKce,1,"$110,000 or more",2,Yes,25
+993,R_1H2cBfKrGkfI64S,4,"$0 - $9,999",None,No,25
+994,R_bxh4lyjAkc3iOii,5,"$90,000 - $109,000",None,No,20
+995,R_40HtAWaM71RRkjA,3,"$90,000 - $109,000",None,No,24
+996,R_2f2gave3HJuslme,2,"$110,000 or more",1,Yes,17
+997,R_cHHcnTTF3DWRuDk,6,"$30,000 - $49,000",2,Yes,20
+998,R_03CaV170E61f0qO,6,"$70,000 - $89,000",3,Yes,22
+999,R_8Il7bbp8irJQx26,1,"$30,000 - $49,000",3,No,20
+1000,R_bKnpPcC9qTHmN1Q,2,"$70,000 - $89,000",2,No,25
+1001,R_aWRq1bXEFBA0t4a,3,"$50,000 - $69,000",1,Yes,19
+1002,R_428aCuXbw0FJS3s,3,"$10,000 - $29,000",2,Yes,21
+1003,R_3vMSxPQwZlG11We,5,"$70,000 - $89,000",1,Yes,21
+1004,R_2mdqsj6Ey0zS3Cm,4,"$110,000 or more",2,No,19
+1005,R_8uIi3vyYIhgMG1g,6,"$10,000 - $29,000",3,No,21
+1006,R_77ZXz96rkuRJFBk,3,"$90,000 - $109,000",2,Yes,23
+1007,R_1Ie2Y4rLjX6mP42,1,"$70,000 - $89,000",4 or more,No,19
+1008,R_eg6qFgnmSXLatts,7,"$110,000 or more",2,Yes,23
+1009,R_6lBg3Z2MyCIuAlw,2,"$110,000 or more",2,Yes,18
+1010,R_9zWwREWnvWcQkbY,1,"$0 - $9,999",2,No,20
+1011,R_a5kyeoGzxg8cfC6,4,"$110,000 or more",3,Yes,18
+1012,R_9EPu0DyEXkjxwTs,2,"$30,000 - $49,000",None,Yes,26
+1013,R_02nXmoHnmA3NfF4,3,"$90,000 - $109,000",2,No,22
+1014,R_afqCONQKKPBG88C,2,"$0 - $9,999",1,Yes,27
+1015,R_3dyZYULl7GAKZn0,1,"$30,000 - $49,000",1,No,30
+1016,R_bvWOaoSrxMVnQou,5,"$30,000 - $49,000",1,No,29
+1017,R_a4VdeBHDjIpwFyC,4,"$90,000 - $109,000",3,Yes,26
+1018,R_6yzzJYtZGt3R1e6,6,"$90,000 - $109,000",1,No,16
+1019,R_1zumrvg23pPN87Y,1,"$30,000 - $49,000",3,No,21
+1020,R_4YnLlIanaqC4eJU,7,"$30,000 - $49,000",4 or more,Yes,21
+1021,R_eX3zQRfQxgGPifA,1,"$50,000 - $69,000",4 or more,No,30
+1022,R_cuSFeCY3Fn2dC8S,2,"$0 - $9,999",2,Yes,21
+1023,R_7apL0hPirWeIzQO,2,"$0 - $9,999",4 or more,No,25
+1024,R_6m0nuA6ck7WwhKK,1,"$50,000 - $69,000",4 or more,Yes,23
+1025,R_1BoY2yQVOiWvV0a,3,"$110,000 or more",1,Yes,26
+1026,R_7NCTdTBpmIdms18,1,"$70,000 - $89,000",2,Yes,26
+1027,R_7UMkpgoCc8kZTFQ,5,"$90,000 - $109,000",4 or more,Yes,21
+1028,R_eyemb1zK2RLltjw,5,"$110,000 or more",2,No,26
+1029,R_5tKuEq1xU2kZR3M,7,"$50,000 - $69,000",2,No,25
+1030,R_bQsHADYuAI88nC6,1,"$50,000 - $69,000",2,Yes,27
+1031,R_aUWR7XxH8v6JuCi,5,"$70,000 - $89,000",2,Yes,20
+1032,R_8ICpeoeqYXrcsZM,7,"$70,000 - $89,000",3,Yes,23
+1033,R_6yWHDeQzfryQHOK,3,"$70,000 - $89,000",None,Yes,28
+1034,R_3aWAsLyeRPKZEk6,7,"$0 - $9,999",None,Yes,21
+1035,R_d4furQ7xGhUTguG,7,"$50,000 - $69,000",3,No,25
+1036,R_bxXkUzY05iUl8Xk,3,"$10,000 - $29,000",1,Yes,23
+1037,R_4ZbkrOmJ7oHDbLg,1,"$110,000 or more",4 or more,Yes,19
+1038,R_0pUc76WoJKLF5FI,6,"$90,000 - $109,000",3,No,31
+1039,R_eaIi7SmgaMjx7r8,6,"$0 - $9,999",4 or more,No,20
+1040,R_eFFwq4sL901XJf8,5,"$10,000 - $29,000",2,Yes,22
+1041,R_bPgqaLcXyfeSlUy,2,"$10,000 - $29,000",3,Yes,25
+1042,R_6EV2ucczRw8Qdeu,5,"$50,000 - $69,000",4 or more,Yes,30
+1043,R_0eL9ASE549HnCqq,6,"$90,000 - $109,000",1,No,25
+1044,R_57L5ZsAPeHkCn5k,7,"$50,000 - $69,000",None,Yes,21
+1045,R_2ixfDsvECYlBjwy,4,"$110,000 or more",4 or more,Yes,22
+1046,R_5oLImLnc86rXeoS,2,"$10,000 - $29,000",3,No,20
+1047,R_b1RQduc9n82xeQK,4,"$0 - $9,999",None,No,22
+1048,R_8vuMIty827ZV02O,2,"$90,000 - $109,000",4 or more,Yes,22
+1049,R_6Q0Cm8RZcwvZF4O,5,"$70,000 - $89,000",2,No,16
+1050,R_2brMzO3eiL0AZwy,1,"$70,000 - $89,000",2,Yes,27
+1051,R_2fSzkYs1TfEkBz8,4,"$50,000 - $69,000",4 or more,No,27
+1052,R_7X4KxKXqF2FSnBA,2,"$30,000 - $49,000",3,No,26
+1053,R_02iKLoF3quCk70W,7,"$10,000 - $29,000",2,Yes,21
+1054,R_3WQFSiMfw82Hqf4,4,"$110,000 or more",3,No,29
+1055,R_9TetnAjpk9YMeqO,4,"$110,000 or more",1,Yes,28
+1056,R_9um4Z7V1cbSoIES,2,"$50,000 - $69,000",1,No,23
+1057,R_2iCJeSkWD3Iffim,5,"$0 - $9,999",4 or more,No,26
+1058,R_9RdSCg5tQcnOB7M,7,"$30,000 - $49,000",None,Yes,26
+1059,R_37VjWBuRWKNemO2,4,"$50,000 - $69,000",3,Yes,29
+1060,R_e9ei2HlXxwgfIma,5,"$70,000 - $89,000",None,No,25
+1061,R_a3qLkOctEnKa4gS,1,"$110,000 or more",1,Yes,19
+1062,R_beDMnfX17hHeSFM,2,"$10,000 - $29,000",4 or more,No,24
+1063,R_2fZgQBZhrdTyRmK,7,"$30,000 - $49,000",2,Yes,27
+1064,R_0MnjEiCu1mUMGOi,4,"$30,000 - $49,000",3,Yes,29
+1065,R_6eQIMtOFWhYdq2W,3,"$0 - $9,999",None,No,20
+1066,R_1FIxmIE1btrY6QS,6,"$30,000 - $49,000",4 or more,No,27
+1067,R_8ensznGbc9GGR7w,6,"$10,000 - $29,000",3,No,27
+1068,R_blNEZJyI8bfPxbM,5,"$90,000 - $109,000",None,Yes,20
+1069,R_bwHmWmO8Zx5UhXo,2,"$50,000 - $69,000",1,Yes,21
+1070,R_ekQauDJJ5zH4uc6,2,"$0 - $9,999",1,No,22
+1071,R_25fbtpLrS9Y3Uge,1,"$50,000 - $69,000",None,Yes,23
+1072,R_danHN41t18MunFY,3,"$0 - $9,999",None,No,25
+1073,R_dm1SlQVbnrc73ka,4,"$90,000 - $109,000",3,No,19
+1074,R_3KkTPDxGOyvWwPs,2,"$70,000 - $89,000",4 or more,Yes,22
+1075,R_3UJdBTuZeIiiFM2,6,"$30,000 - $49,000",2,No,25
+1076,R_0VZc9BHv5n9doVw,5,"$110,000 or more",4 or more,No,18
+1077,R_9mF8tHUcrnQgoGG,6,"$70,000 - $89,000",2,Yes,25
+1078,R_42Brh9sfKnc7UfI,1,"$110,000 or more",4 or more,No,27
+1079,R_cUzdN5DWerQa8h8,1,"$90,000 - $109,000",1,No,17
+1080,R_0fagDarYBdMFbbE,1,"$110,000 or more",3,Yes,27
+1081,R_cDg8BuFVxy1qbH0,1,"$70,000 - $89,000",3,Yes,19
+1082,R_0qse03KRlCxp782,2,"$30,000 - $49,000",1,Yes,21
+1083,R_1LK87y8cRvKTBhs,1,"$110,000 or more",4 or more,No,25
+1084,R_egv8rJH1MHqMb3M,3,"$110,000 or more",3,Yes,24
+1085,R_aVs4h1EKxlOQS1w,5,"$0 - $9,999",1,No,21
+1086,R_6QJTxTsd5hFNnCu,3,"$110,000 or more",1,Yes,24
+1087,R_56IgNKN7RK2g3f8,1,"$50,000 - $69,000",3,Yes,31
+1088,R_6XyUSp5pkFK40ho,2,"$90,000 - $109,000",3,Yes,29
+1089,R_db6hThujCkwQ3Xw,7,"$90,000 - $109,000",1,Yes,24
