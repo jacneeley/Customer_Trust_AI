@@ -23,13 +23,12 @@ cor.test(X,AI.Trust.Score,method=c('pearson'))
 #####################################################################################
 #regression
 #alpha = .05
-plot(AI.Trust.Score~Q13,xlab="amount spend in last 3 months",ylab = "AI Trust Score")
-abline(a=mean(AI.Trust.Score),b=0,col="green")
-
-
 #X is the number of possible retained customers, based on response.
 o_zero<-lm(AI.Trust.Score~X,data)
 summary(o_zero)
+plot(AI.Trust.Score~X,data,xlab="retained customers",ylab = "AI Trust Score")
+abline(a=mean(AI.Trust.Score),b=0,col="green")
+abline(a=o_zero,b=0,col='red')
 #p-value = 0.124
 #Multiple R-squared:  0.004509,	Adjusted R-squared:  0.00261 
 
@@ -44,6 +43,8 @@ summary(o1)
 o2<-lm(AI.Trust.Score~Q13+X,data)
 summary(o2)
 
+plot(AI.Trust.Score~Q13,xlab="amount spend in last 3 months",ylab = "AI Trust Score")
+abline(a=mean(AI.Trust.Score),b=0,col="green")
 abline(a=o1,b=0,col='red')
 
 
