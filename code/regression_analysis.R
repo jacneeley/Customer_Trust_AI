@@ -1,4 +1,4 @@
-path <- "C:/Users/Owner/Documents/Python-Scripts/mkt_research/Phase2_mkt_research/data/regression_data.csv"
+path <- "./some_path/regression_data.csv"
 
 data <- read.table(file=path,sep=',',header=TRUE)
 attach(data)
