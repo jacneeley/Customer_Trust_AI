@@ -1,4 +1,4 @@
-path <- "C:/Users/Owner/Documents/Python-Scripts/mkt_research/Phase2_mkt_research/ages.csv"
+path <- "some_path/ages.csv"
 data<-read.table(file=path,sep=',',header=TRUE)
 
 summary(data)
