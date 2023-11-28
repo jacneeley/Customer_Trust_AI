@@ -2,12 +2,12 @@
 """
 Created on Wed Nov 22 16:20:21 2023
 
-@author: 3ak
+@author: Jacob Neeley
 """
 import pandas as pd
 
 
-path = "C:/Users/Owner/Documents/Python-Scripts/mkt_research/Phase2_mkt_research/customer_retention.csv"
+path = "./some_path/customer_retention.csv"
 
 df = pd.read_csv(path, sep=',')
 
