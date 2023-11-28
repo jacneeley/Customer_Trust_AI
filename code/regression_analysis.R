@@ -1,8 +1,27 @@
-path <- "C:/Users/Owner/Documents/Python-Scripts/mkt_research/Phase2_mkt_research/regression_data.csv"
+path <- "C:/Users/Owner/Documents/Python-Scripts/mkt_research/Phase2_mkt_research/data/regression_data.csv"
 
 data <- read.table(file=path,sep=',',header=TRUE)
 attach(data)
 summary(data)
+
+
+####################################################################################
+#correlation - data is normally distributed, Pearson's correlation
+cor.test(Q13,AI.Trust.Score,method=c('pearson'))
+cor.test(X,AI.Trust.Score,method=c('pearson'))
+#Pearson's product-moment correlation
+#
+#data:  X and AI.Trust.Score
+#t = -1.5407, df = 524, p-value = 0.124
+#alternative hypothesis: true correlation is not equal to 0
+#95 percent confidence interval:
+#  -0.15177443  0.01844818
+#sample estimates:
+#        cor  = -0.06715175 
+
+
+#####################################################################################
+#regression
 #alpha = .05
 plot(AI.Trust.Score~Q13,xlab="amount spend in last 3 months",ylab = "AI Trust Score")
 abline(a=mean(AI.Trust.Score),b=0,col="green")
